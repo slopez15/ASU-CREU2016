@@ -1,0 +1,1941 @@
+[
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJKwZ1xQ6L_4cRXgiLhmqTwZs",
+                    "formatted_address": "510 W Hemlock St, Abbotsford, WI 54405, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -90.3306714197085,
+                                "lat": 44.95121208029149
+                            },
+                            "southwest": {
+                                "lng": -90.3333693802915,
+                                "lat": 44.94851411970849
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "location": {
+                            "lng": -90.33202039999999,
+                            "lat": 44.94986309999999
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "510",
+                            "long_name": "510",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "W Hemlock St",
+                            "long_name": "West Hemlock Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Abbotsford",
+                            "long_name": "Abbotsford",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Clark County",
+                            "long_name": "Clark County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54405",
+                            "long_name": "54405",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9730",
+                            "long_name": "9730",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Abbotsford School District",
+        "School": "Abbotsford Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJKwZ1xQ6L_4cRXgiLhmqTwZs",
+                    "formatted_address": "510 W Hemlock St, Abbotsford, WI 54405, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -90.3306714197085,
+                                "lat": 44.95121208029149
+                            },
+                            "southwest": {
+                                "lng": -90.3333693802915,
+                                "lat": 44.94851411970849
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "location": {
+                            "lng": -90.33202039999999,
+                            "lat": 44.94986309999999
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "510",
+                            "long_name": "510",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "W Hemlock St",
+                            "long_name": "West Hemlock Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Abbotsford",
+                            "long_name": "Abbotsford",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Clark County",
+                            "long_name": "Clark County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54405",
+                            "long_name": "54405",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9730",
+                            "long_name": "9730",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Abbotsford School District",
+        "School": "Abbotsford Middle/Senior High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "Eis2MjAgQ291bnR5IFJkIE0sIEdyYW5kIE1hcnNoLCBXSSA1MzkzNiwgVVNB",
+                    "formatted_address": "620 County Rd M, Grand Marsh, WI 53936, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.7024755697085,
+                                "lat": 43.9537879302915
+                            },
+                            "southwest": {
+                                "lng": -89.7051735302915,
+                                "lat": 43.9510899697085
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.7038244,
+                                "lat": 43.9524457
+                            },
+                            "southwest": {
+                                "lng": -89.7038247,
+                                "lat": 43.9524322
+                            }
+                        },
+                        "location": {
+                            "lng": -89.7038244,
+                            "lat": 43.9524457
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "620",
+                            "long_name": "620",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "County Rd M",
+                            "long_name": "County Road M",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Grand Marsh",
+                            "long_name": "Grand Marsh",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Lincoln",
+                            "long_name": "Lincoln",
+                            "types": [
+                                "administrative_area_level_3",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams County",
+                            "long_name": "Adams County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53936",
+                            "long_name": "53936",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9717",
+                            "long_name": "9717",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Adams-Friendship Area School District",
+        "School": "Grand Marsh Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "ChIJD6kQ4PqjAIgR3_3BKAnyskg",
+                    "formatted_address": "18th Ave, Wisconsin, USA",
+                    "types": [
+                        "route"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.9165056697085,
+                                "lat": 43.99583459999999
+                            },
+                            "southwest": {
+                                "lng": -89.9192036302915,
+                                "lat": 43.9814178
+                            }
+                        },
+                        "location_type": "GEOMETRIC_CENTER",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.9175592,
+                                "lat": 43.99583459999999
+                            },
+                            "southwest": {
+                                "lng": -89.91815009999999,
+                                "lat": 43.9814178
+                            }
+                        },
+                        "location": {
+                            "lng": -89.91767929999999,
+                            "lat": 43.9888183
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "18th Ave",
+                            "long_name": "18th Avenue",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams County",
+                            "long_name": "Adams County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Adams-Friendship Area School District",
+        "School": "Roche A Cri Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "EiU1MDAgTiBQaWVyY2UgU3QsIEFkYW1zLCBXSSA1MzkxMCwgVVNB",
+                    "formatted_address": "500 N Pierce St, Adams, WI 53910, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.81079866970849,
+                                "lat": 43.96271813029151
+                            },
+                            "southwest": {
+                                "lng": -89.81349663029151,
+                                "lat": 43.96002016970851
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.8121383,
+                                "lat": 43.9613693
+                            },
+                            "southwest": {
+                                "lng": -89.812157,
+                                "lat": 43.961369
+                            }
+                        },
+                        "location": {
+                            "lng": -89.8121383,
+                            "lat": 43.9613693
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "500",
+                            "long_name": "500",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "N Pierce St",
+                            "long_name": "North Pierce Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams",
+                            "long_name": "Adams",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams County",
+                            "long_name": "Adams County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53910",
+                            "long_name": "53910",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9568",
+                            "long_name": "9568",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Adams-Friendship Area School District",
+        "School": "Adams-Friendship Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "EiUxMTA5IEUgTm9ydGggU3QsIEFkYW1zLCBXSSA1MzkxMCwgVVNB",
+                    "formatted_address": "1109 E North St, Adams, WI 53910, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.80632316970848,
+                                "lat": 43.96813433029151
+                            },
+                            "southwest": {
+                                "lng": -89.8090211302915,
+                                "lat": 43.96543636970851
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.80767209999999,
+                                "lat": 43.9667921
+                            },
+                            "southwest": {
+                                "lng": -89.8076722,
+                                "lat": 43.9667786
+                            }
+                        },
+                        "location": {
+                            "lng": -89.8076722,
+                            "lat": 43.9667786
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "1109",
+                            "long_name": "1109",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "E North St",
+                            "long_name": "East North Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams",
+                            "long_name": "Adams",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams County",
+                            "long_name": "Adams County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53910",
+                            "long_name": "53910",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Adams-Friendship Area School District",
+        "School": "Adams-Friendship High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "Eig0MjAgTiBNYWluIFN0LCBGcmllbmRzaGlwLCBXSSA1MzkzNCwgVVNB",
+                    "formatted_address": "420 N Main St, Friendship, WI 53934, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.81509886970849,
+                                "lat": 43.9780308302915
+                            },
+                            "southwest": {
+                                "lng": -89.81779683029151,
+                                "lat": 43.9753328697085
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.8164396,
+                                "lat": 43.9766851
+                            },
+                            "southwest": {
+                                "lng": -89.8164561,
+                                "lat": 43.9766786
+                            }
+                        },
+                        "location": {
+                            "lng": -89.8164396,
+                            "lat": 43.9766786
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "420",
+                            "long_name": "420",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "N Main St",
+                            "long_name": "North Main Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Friendship",
+                            "long_name": "Friendship",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Adams County",
+                            "long_name": "Adams County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53934",
+                            "long_name": "53934",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Adams-Friendship Area School District",
+        "School": "Adams-Friendship Middle School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJjQfWzX_NB4gRN-S7hfoQe84",
+                    "formatted_address": "400 5th St, Albany, WI 53502, USA",
+                    "types": [
+                        "premise"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.43276636970849,
+                                "lat": 42.70833903029149
+                            },
+                            "southwest": {
+                                "lng": -89.43546433029151,
+                                "lat": 42.7056410697085
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.4335042,
+                                "lat": 42.7073887
+                            },
+                            "southwest": {
+                                "lng": -89.4347265,
+                                "lat": 42.7065914
+                            }
+                        },
+                        "location": {
+                            "lng": -89.4341154,
+                            "lat": 42.70699
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "400",
+                            "long_name": "400",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "5th St",
+                            "long_name": "5th Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Albany",
+                            "long_name": "Albany",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Green County",
+                            "long_name": "Green County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53502",
+                            "long_name": "53502",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Albany School District",
+        "School": "Albany Middle School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJjQfWzX_NB4gRN-S7hfoQe84",
+                    "formatted_address": "400 5th St, Albany, WI 53502, USA",
+                    "types": [
+                        "premise"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.43276636970849,
+                                "lat": 42.70833903029149
+                            },
+                            "southwest": {
+                                "lng": -89.43546433029151,
+                                "lat": 42.7056410697085
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.4335042,
+                                "lat": 42.7073887
+                            },
+                            "southwest": {
+                                "lng": -89.4347265,
+                                "lat": 42.7065914
+                            }
+                        },
+                        "location": {
+                            "lng": -89.4341154,
+                            "lat": 42.70699
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "400",
+                            "long_name": "400",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "5th St",
+                            "long_name": "5th Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Albany",
+                            "long_name": "Albany",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Green County",
+                            "long_name": "Green County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53502",
+                            "long_name": "53502",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Albany School District",
+        "School": "Albany Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJjQfWzX_NB4gRN-S7hfoQe84",
+                    "formatted_address": "400 5th St, Albany, WI 53502, USA",
+                    "types": [
+                        "premise"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.43276636970849,
+                                "lat": 42.70833903029149
+                            },
+                            "southwest": {
+                                "lng": -89.43546433029151,
+                                "lat": 42.7056410697085
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -89.4335042,
+                                "lat": 42.7073887
+                            },
+                            "southwest": {
+                                "lng": -89.4347265,
+                                "lat": 42.7065914
+                            }
+                        },
+                        "location": {
+                            "lng": -89.4341154,
+                            "lat": 42.70699
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "400",
+                            "long_name": "400",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "5th St",
+                            "long_name": "5th Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Albany",
+                            "long_name": "Albany",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Green County",
+                            "long_name": "Green County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "53502",
+                            "long_name": "53502",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Albany School District",
+        "School": "Albany High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJK7TVBsg2HYgR-DHybG4-QcY",
+                    "formatted_address": "514 Fremont St, Algoma, WI 54201, USA",
+                    "types": [
+                        "premise"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -87.4389060197085,
+                                "lat": 44.6074623302915
+                            },
+                            "southwest": {
+                                "lng": -87.4416039802915,
+                                "lat": 44.6047643697085
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -87.4396859,
+                                "lat": 44.6065171
+                            },
+                            "southwest": {
+                                "lng": -87.4408241,
+                                "lat": 44.6057096
+                            }
+                        },
+                        "location": {
+                            "lng": -87.440255,
+                            "lat": 44.60611340000001
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "514",
+                            "long_name": "514",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "Fremont St",
+                            "long_name": "Fremont Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Algoma",
+                            "long_name": "Algoma",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Kewaunee County",
+                            "long_name": "Kewaunee County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54201",
+                            "long_name": "54201",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Algoma School District",
+        "School": "Algoma Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "EicxNzE1IERpdmlzaW9uIFN0LCBBbGdvbWEsIFdJIDU0MjAxLCBVU0E",
+                    "formatted_address": "1715 Division St, Algoma, WI 54201, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -87.4428469197085,
+                                "lat": 44.5989303302915
+                            },
+                            "southwest": {
+                                "lng": -87.44554488029152,
+                                "lat": 44.5962323697085
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -87.44418650000001,
+                                "lat": 44.5975816
+                            },
+                            "southwest": {
+                                "lng": -87.4442053,
+                                "lat": 44.5975811
+                            }
+                        },
+                        "location": {
+                            "lng": -87.4442053,
+                            "lat": 44.5975816
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "1715",
+                            "long_name": "1715",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "Division St",
+                            "long_name": "Division Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Algoma",
+                            "long_name": "Algoma",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Kewaunee County",
+                            "long_name": "Kewaunee County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54201",
+                            "long_name": "54201",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "1435",
+                            "long_name": "1435",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Algoma School District",
+        "School": "Algoma High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "ChIJv6xihM0h_4cRjVUzHMLs8Lo",
+                    "formatted_address": "S School St, Alma Center, WI 54611, USA",
+                    "types": [
+                        "route"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -90.91430251970849,
+                                "lat": 44.4374595302915
+                            },
+                            "southwest": {
+                                "lng": -90.91700048029149,
+                                "lat": 44.4347615697085
+                            }
+                        },
+                        "location_type": "GEOMETRIC_CENTER",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -90.9156313,
+                                "lat": 44.43707879999999
+                            },
+                            "southwest": {
+                                "lng": -90.91567169999999,
+                                "lat": 44.4351423
+                            }
+                        },
+                        "location": {
+                            "lng": -90.91564249999999,
+                            "lat": 44.4363412
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "S School St",
+                            "long_name": "South School Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Alma Center",
+                            "long_name": "Alma Center",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Jackson County",
+                            "long_name": "Jackson County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54611",
+                            "long_name": "54611",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Alma Center School District",
+        "School": "Lincoln High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "EigyMDcgRSBQZWFybCBTdCwgTWVycmlsbGFuLCBXSSA1NDc1NCwgVVNB",
+                    "formatted_address": "207 E Pearl St, Merrillan, WI 54754, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -90.83856576970851,
+                                "lat": 44.45270998029149
+                            },
+                            "southwest": {
+                                "lng": -90.84126373029152,
+                                "lat": 44.4500120197085
+                            }
+                        },
+                        "location_type": "RANGE_INTERPOLATED",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -90.8399147,
+                                "lat": 44.4513677
+                            },
+                            "southwest": {
+                                "lng": -90.83991480000002,
+                                "lat": 44.4513543
+                            }
+                        },
+                        "location": {
+                            "lng": -90.83991480000002,
+                            "lat": 44.4513677
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "207",
+                            "long_name": "207",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "E Pearl St",
+                            "long_name": "East Pearl Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Merrillan",
+                            "long_name": "Merrillan",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Jackson County",
+                            "long_name": "Jackson County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54754",
+                            "long_name": "54754",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9063",
+                            "long_name": "9063",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Alma Center School District",
+        "School": "Lincoln Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "ChIJv6xihM0h_4cRjVUzHMLs8Lo",
+                    "formatted_address": "S School St, Alma Center, WI 54611, USA",
+                    "types": [
+                        "route"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -90.91430251970849,
+                                "lat": 44.4374595302915
+                            },
+                            "southwest": {
+                                "lng": -90.91700048029149,
+                                "lat": 44.4347615697085
+                            }
+                        },
+                        "location_type": "GEOMETRIC_CENTER",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -90.9156313,
+                                "lat": 44.43707879999999
+                            },
+                            "southwest": {
+                                "lng": -90.91567169999999,
+                                "lat": 44.4351423
+                            }
+                        },
+                        "location": {
+                            "lng": -90.91564249999999,
+                            "lat": 44.4363412
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "S School St",
+                            "long_name": "South School Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Alma Center",
+                            "long_name": "Alma Center",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Jackson County",
+                            "long_name": "Jackson County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54611",
+                            "long_name": "54611",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Alma Center School District",
+        "School": "Lincoln Junior High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "ChIJkYrUFxjy-IcRgEmbdi0MEDw",
+                    "formatted_address": "WI-35, Alma, WI 54610, USA",
+                    "types": [
+                        "route"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -91.8547974,
+                                "lat": 44.3946545
+                            },
+                            "southwest": {
+                                "lng": -91.97371480000001,
+                                "lat": 44.25611259999999
+                            }
+                        },
+                        "location_type": "GEOMETRIC_CENTER",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -91.8547974,
+                                "lat": 44.3946545
+                            },
+                            "southwest": {
+                                "lng": -91.97371480000001,
+                                "lat": 44.25611259999999
+                            }
+                        },
+                        "location": {
+                            "lng": -91.9171435,
+                            "lat": 44.3242713
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "WI-35",
+                            "long_name": "Wisconsin 35",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Alma",
+                            "long_name": "Alma",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Buffalo County",
+                            "long_name": "Buffalo County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54610",
+                            "long_name": "54610",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Alma School District",
+        "School": "Alma High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "partial_match": true,
+                    "place_id": "ChIJkYrUFxjy-IcRgEmbdi0MEDw",
+                    "formatted_address": "WI-35, Alma, WI 54610, USA",
+                    "types": [
+                        "route"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -91.8547974,
+                                "lat": 44.3946545
+                            },
+                            "southwest": {
+                                "lng": -91.97371480000001,
+                                "lat": 44.25611259999999
+                            }
+                        },
+                        "location_type": "GEOMETRIC_CENTER",
+                        "bounds": {
+                            "northeast": {
+                                "lng": -91.8547974,
+                                "lat": 44.3946545
+                            },
+                            "southwest": {
+                                "lng": -91.97371480000001,
+                                "lat": 44.25611259999999
+                            }
+                        },
+                        "location": {
+                            "lng": -91.9171435,
+                            "lat": 44.3242713
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "WI-35",
+                            "long_name": "Wisconsin 35",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Alma",
+                            "long_name": "Alma",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Buffalo County",
+                            "long_name": "Buffalo County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54610",
+                            "long_name": "54610",
+                            "types": [
+                                "postal_code"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Alma School District",
+        "School": "Alma Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJCVqmqEb9AIgRG-t1ULnyQ_w",
+                    "formatted_address": "1336 Elm St, Almond, WI 54909, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.4116687197085,
+                                "lat": 44.26130078029149
+                            },
+                            "southwest": {
+                                "lng": -89.41436668029151,
+                                "lat": 44.25860281970849
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "location": {
+                            "lng": -89.4130177,
+                            "lat": 44.2599518
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "1336",
+                            "long_name": "1336",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "Elm St",
+                            "long_name": "Elm Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Almond",
+                            "long_name": "Almond",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Portage County",
+                            "long_name": "Portage County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54909",
+                            "long_name": "54909",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9785",
+                            "long_name": "9785",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Almond-Bancroft School District",
+        "School": "Almond High School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJCVqmqEb9AIgRG-t1ULnyQ_w",
+                    "formatted_address": "1336 Elm St, Almond, WI 54909, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.4116687197085,
+                                "lat": 44.26130078029149
+                            },
+                            "southwest": {
+                                "lng": -89.41436668029151,
+                                "lat": 44.25860281970849
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "location": {
+                            "lng": -89.4130177,
+                            "lat": 44.2599518
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "1336",
+                            "long_name": "1336",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "Elm St",
+                            "long_name": "Elm Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Almond",
+                            "long_name": "Almond",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Portage County",
+                            "long_name": "Portage County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54909",
+                            "long_name": "54909",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9785",
+                            "long_name": "9785",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Almond-Bancroft School District",
+        "School": "Almond Elementary School"
+    },
+    {
+        "Location": {
+            "results": [
+                {
+                    "place_id": "ChIJCVqmqEb9AIgRG-t1ULnyQ_w",
+                    "formatted_address": "1336 Elm St, Almond, WI 54909, USA",
+                    "types": [
+                        "street_address"
+                    ],
+                    "geometry": {
+                        "viewport": {
+                            "northeast": {
+                                "lng": -89.4116687197085,
+                                "lat": 44.26130078029149
+                            },
+                            "southwest": {
+                                "lng": -89.41436668029151,
+                                "lat": 44.25860281970849
+                            }
+                        },
+                        "location_type": "ROOFTOP",
+                        "location": {
+                            "lng": -89.4130177,
+                            "lat": 44.2599518
+                        }
+                    },
+                    "address_components": [
+                        {
+                            "short_name": "1336",
+                            "long_name": "1336",
+                            "types": [
+                                "street_number"
+                            ]
+                        },
+                        {
+                            "short_name": "Elm St",
+                            "long_name": "Elm Street",
+                            "types": [
+                                "route"
+                            ]
+                        },
+                        {
+                            "short_name": "Almond",
+                            "long_name": "Almond",
+                            "types": [
+                                "locality",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "Portage County",
+                            "long_name": "Portage County",
+                            "types": [
+                                "administrative_area_level_2",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "WI",
+                            "long_name": "Wisconsin",
+                            "types": [
+                                "administrative_area_level_1",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "US",
+                            "long_name": "United States",
+                            "types": [
+                                "country",
+                                "political"
+                            ]
+                        },
+                        {
+                            "short_name": "54909",
+                            "long_name": "54909",
+                            "types": [
+                                "postal_code"
+                            ]
+                        },
+                        {
+                            "short_name": "9785",
+                            "long_name": "9785",
+                            "types": [
+                                "postal_code_suffix"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "status": "OK"
+        },
+        "District": "Almond-Bancroft School District",
+        "School": "Bancroft Elementary School"
+    }
+]
