@@ -5,6 +5,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
+import time
 
 download_path = os.getcwd() + "\\csv_data\\"
 fp = webdriver.FirefoxProfile("C:/Users/Chris/AppData/Roaming/Mozilla/Firefox/Profiles/lezp5kwl.selenium")
@@ -15,6 +16,31 @@ fp.set_preference("browser.helperApps.neverAsk.saveToDisk","text/csv");
 
 browser = webdriver.Firefox(firefox_profile=fp)
 browser.get("https://www.redfin.com")
+
+class wait_for_page_load(object):
+
+    def __init__(self, browser):
+        self.browser = browser
+
+    def __enter__(self):
+        self.old_page = self.browser.find_element_by_tag_name('html')
+
+    def page_has_loaded(self):
+        new_page = self.browser.find_element_by_tag_name('html')
+        return new_page.id != self.old_page.id
+
+    def __exit__(self, *_):
+        wait_for(self.page_has_loaded)
+def wait_for(condition_function):
+    start_time = time.time()
+    while time.time() < start_time + 3:
+        if condition_function():
+            return True
+        else:
+            time.sleep(0.1)
+    raise Exception(
+        'Timeout waiting for {}'.format(condition_function.__name__)
+    )
 
 def append_to_fault_file(newCity): #reference: http://pymotw.com/2/csv/
     os.chdir(download_path)
@@ -87,8 +113,11 @@ def collect_csv_data():
 
                 elem.clear()
                 elem.send_keys(keys)
-                elem.submit()
-
+                try:
+                    with wait_for_page_load(browser):
+                        browser.find_element_by_class_name("search-input-box").submit()
+                except:
+                    pass
                 # Check for an unrecognized city
                 if browser.current_url == 'https://www.redfin.com/':
                     print('No listings for '+ keys)
@@ -102,6 +131,5 @@ def collect_csv_data():
                     except NoSuchElementException:
                         print('Empty Page for '+ keys)
                         append_to_fault_file(cityState)
-
 
 collect_csv_data()
