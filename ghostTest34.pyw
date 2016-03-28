@@ -56,7 +56,7 @@ result, resources = session.evaluate("document.getElementById('table_container')
 print("\nshowing...")
 session.show()
 print("\npause...")
-time.sleep(1)
+time.sleep(5)
 print("\nclosing...")
 session.hide()
 #sys.exit(0)
@@ -71,27 +71,58 @@ code = BeautifulSoup(afterImage, "html.parser")
 #Obtain table_container with crime data
 crimeTable = code.find(id = 'table_container')
 code = BeautifulSoup((str)(crimeTable), "html.parser").find_all('a')
+    #extract crime(<h4>), date(<p>class=list-group-item-text crime-date), address(<p>class=list-group-item-text crime-address)
+    #'''#
 
-#extract crime(<h4>), date(<p>class=list-group-item-text crime-date), address(<p>class=list-group-item-text crime-address)
-#'''#
-'''
-for aTag in aTags:
+crimeContent = []
+dateContent = [] #onlyhrefs we care about
+addressContent = []
+
+#crimeContent = BeautifulSoup((str)(code), "html.parser").find_all('h4')
+for aTag in code:
 	if ( aTag.get_text() != '\xa0'):
+		crimeContent.append(aTag.find('h4').get_text()) #!!!*** .get is better than .find or 'a[href]', returns str instead of NoneType
+		
+#dateContent = BeautifulSoup((str)(code), "html.parser").find_all(class="list-group-item-text crime-date")
+for aTag in code:
+	if ( aTag.get_text() != '\xa0'):
+		dateContent.append(aTag.find('p').get_text()) #!!!*** .get is better than .find or 'a[href]', returns str instead of NoneType
+		addressContent.append(aTag.find('p').next_sibling.get_text()) #!!!*** .get is better than .find or 'a[href]', returns str instead of NoneType
+#addressContent = BeautifulSoup((str)(code), "html.parser").find_all(class="list-group-item-text crime-address") 
+'''
+for aTag in code:
+	if ( aTag.get_text() != '\xa0'):
+		addressContent.append(aTag.) #!!!*** .get is better than .find or 'a[href]', returns str instead of NoneType
+'''
+
+
+
+'''
+tdTags = (BeautifulSoup((str)(tables[0]), "html.parser")).findAll('td')
+for tdTag in tdTags:
+	if ( tdTag.get_text() != '\xa0'): #assumes if there's text, there's a link
 		t1_hrefs.append(tdTag.find('a').get('href')) #!!!*** .get is better than .find or 'a[href]', returns str instead of NoneType
 	tdCount += 1 #/al/ =20, 'a'Tags=21
 hrefs [:] = t1_hrefs [:] #collect wanted table1 hrefs
 '''
 #'''#
 code = BeautifulSoup((str)(code), "html.parser")
+crimeContent = BeautifulSoup((str)(crimeContent), "html.parser")
+dateContent = BeautifulSoup((str)(dateContent), "html.parser")
+addressContent = BeautifulSoup((str)(addressContent), "html.parser")
 
 code = code.prettify()
-    #, class = 'list-group crime-list clearfix'
-#code = BeautifulSoup(code, "html.parser")
+crimeContent = crimeContent.prettify()
+dateContent = dateContent.prettify()
+addressContent = addressContent.prettify()
+
 
 #'''
 #------#Print-------
-print(code)
-
+#print(code)
+print(crimeContent)
+print(dateContent)
+print(addressContent)
 
 
 
