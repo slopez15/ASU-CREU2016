@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import csv
 import time
 
-download_path = os.getcwd() + "\\csv_data\\AZ\\"
+download_path = os.getcwd() + "\\csv_data\\"
 fp = webdriver.FirefoxProfile("C:/Users/crdia/AppData/Local/Mozilla/Firefox/Profiles/jy1aey5h.selenium")
 fp.set_preference("browser.download.folderList", 2)
 fp.set_preference("browser.download.manager.showWhenStarting",False)
@@ -87,8 +87,8 @@ def collect_csv_data():
             cityState = (row[2], row[0])
             keys = '%s, %s' % cityState
 
-            if row[0] != 'AZ':  # Filter script by state
-                print('Not AZ')
+            if (row[0] == 'AZ' or row[0] == 'AL'):  # Filter script by state
+                print('Already Extracted')
             elif already_obtained(cityState):
                 print(keys +': Already Obtained')
             elif already_faulty(cityState):
