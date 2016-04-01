@@ -5,30 +5,37 @@ import sys
 import time
 print (sys.version)
 #time.sleep(1)
+from urllib import request
+from bs4 import BeautifulSoup
+
+
+'''
+spotcrime.com
+browse by state - click()
+go to each county in state site - click()
+click() the pop up
+get table and extract data
+        h4 - crime
+        p - date
+        p2 - location
+'''
+
+
+
+
 
 
 '''START urllib '''
-from urllib import request
-import urllib
-
 #simple request
-#http://spotcrime.com
 base = 'http://spotcrime.com'
 url = 'http://spotcrime.com/al/auburn'
 response = request.urlopen(url)
 html = response.read()#bytes
-#htmlString = html.decode("utf-8")#str
-
-
 
 '''START BeautifulSoup '''
-#type() - use to know types
-from bs4 import BeautifulSoup
 code = BeautifulSoup(html, "html.parser")
 soup = code
-
 code = code.find("table_container")
-
 #print (code)
 
 
@@ -124,6 +131,15 @@ print(crimeContent)
 print(dateContent)
 print(addressContent)
 
+
+
+
+
+#----SCRATCH----
+
+#Useful Methods
+#type() - use to know types
+#htmlString = html.decode("utf-8")#str
 
 
 
