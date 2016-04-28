@@ -1,0 +1,9 @@
+.settings
+.classpath
+.project
+.pydevproject
+.DS_Store
+*.class
+/classes/
+bin
+build
