@@ -1,5 +1,5 @@
 Veterans Memorial Stadium,30000,Troy,Alabama,1950,Football,Troy Trojans
-New Alabama State stadium,30000,Montgomery,Alabama,2012,Football,Alabama State Hornets
+Alabama State stadium,30000,Montgomery,Alabama,2012,Football,Alabama State Hornets
 Louis Crews Stadium,21000,Huntsville,Alabama,1996,Football,Alabama A&M Bulldogs
 Legion Field,71594,Birmingham,Alabama,1926,Football,"UAB Blazers, BBVA Compass Bowl"
 Ladd Peebles Stadium,40646,Mobile,Alabama,1948,Football,"South Alabama Jaguars, Senior Bowl andGoDaddy.com Bowl"
@@ -11,17 +11,14 @@ Sun Devil Stadium,73378,Tempe,Arizona,1958,Football,Arizona State Sun Devils
 Chase Field[23],49033,Phoenix,Arizona,1998,Baseball,Arizona Diamondbacks
 Arizona Stadium,57803,Tucson,Arizona,1928,Football,Arizona Wildcats
 War Memorial Stadium,53727,Little Rock,Arkansas,1948,Football,Arkansas Razorbacks (secondary to Razorback Stadium)
-Donald W. Reynolds Razorback Stadium,76000,Fayetteville,Arkansas,1938,Football,Arkansas Razorbacks (primary)
 ASU Stadium,30964,Jonesboro,Arkansas,1974,Football,Arkansas State Red Wolves
 StubHub Center,27000,Carson,California,2003,Soccer,Los Angeles Galaxy
 Stanford Stadium,50000,Stanford,California,1921;2006,Football,Stanford Cardinal
 Spartan Stadium,30456,San Jose,California,1933,Football,San Jose State Spartans
-Rose Bowl[11],92542,Pasadena,California,1922,Football,"UCLA Bruins, the annual Rose Bowl Game"
+Rose Bowl,92542,Pasadena,California,1922,Football,"UCLA Bruins, the annual Rose Bowl Game"
 Qualcomm Stadium,71294,San Diego,California,1967,Multi-purpose,"San Diego Chargers, San Diego State Aztecs, Holiday Bowl, Poinsettia Bowl"
-PETCO Park[29],42445,San Diego,California,2004,Baseball,San Diego Padres
 O.co Coliseum,63026,Oakland,California,1966,Multi-purpose,"Oakland Raiders, Oakland Athletics"
-Los Angeles Memorial Coliseum[8][9],93607,Los Angeles,California,1923,Football,"USC Trojans,"
-Los Angeles Memorial Coliseum,93607,Los Angeles,California,1923,Football,Los Angeles Rams
+Los Angeles Memorial Coliseum,93607,Los Angeles,California,1923,Football,"USC Trojans,Los Angeles Rams"
 Levi's Stadium,68500,Santa Clara,California,2014,Football,"San Francisco 49ers, San Jose Earthquakes"
 Hughes Stadium,20311,Sacramento,California,1928,Multi-purpose,Various sporting events
 Hornet Stadium,21650,Sacramento,California,1969,Football,Sacramento State Hornets
@@ -29,7 +26,7 @@ Dodger Stadium[18],56000,Los Angeles,California,1962,Baseball,Los Angeles Dodger
 Candlestick Park,70207,San Francisco,California,1960,Multi-purpose,no home team
 California Memorial Stadium,62717,Berkeley,California,1923,Football,California Golden Bears
 Bulldog Stadium,41031,Fresno,California,1980,Football,Fresno State Bulldogs
-AT&T Park,41503,San Francisco,California,2000,Baseball,"San Francisco Giants, Fight Hunger Bowl"
+AT T Park,41503,San Francisco,California,2000,Baseball,"San Francisco Giants, Fight Hunger Bowl"
 Angel Stadium of Anaheim[27],45050,Anaheim,California,1966,Baseball,Los Angeles Angels of Anaheim
 Sonny Lubick Field at Hughes Stadium,34400,Fort Collins,Colorado,1968,Football,Colorado State Rams
 Mile High Stadium,76125,Denver,Colorado,2001,Football,Denver Broncos
@@ -91,7 +88,7 @@ Benson Field at Yulman Stadium,30000,New Orleans,Louisiana,2014,Football,Tulane 
 Ace W. Mumford Stadium,29000,Baton Rouge,Louisiana,1928,Football,Southern Jaguars
 Oriole Park at Camden Yards[24],48876,Baltimore,Maryland,1992,Baseball,Baltimore Orioles
 Navy-Marine Corps Memorial Stadium,34000,Annapolis,Maryland,1959,Football,"Navy Midshipmen, Chesapeake Bayhawks"
-M&T Bank Stadium,71008,Baltimore,Maryland,1998,Football,Baltimore Ravens
+M T Bank Stadium,71008,Baltimore,Maryland,1998,Football,Baltimore Ravens
 FedExField[15],82000,Landover,Maryland,1997,Football,Washington Redskins
 Byrd Stadium,51500,College Park,Maryland,1950,Football,Maryland Terrapins
 Harvard Stadium,30323,Allston,Massachusetts,1903,Football,"Harvard Crimson, Boston Cannons"
@@ -143,7 +140,7 @@ Kidd Brewer Stadium,23150,Boone,North Carolina,1962,Football,Appalachian State M
 Kidd Brewer Stadium,21650,Boone,North Carolina,1962,Football,Appalachian State Mountaineers
 Kenan Memorial Stadium,63000,Chapel Hill,North Carolina,1926,Football,North Carolina Tar Heels
 Carter-Finley Stadium[17],57583,Raleigh,North Carolina,1966,Football,NC State Wolfpack
-BB&T Field at Groves Stadium,31500,Winston-Salem,North Carolina,1968,Football,Wake Forest Demon Deacons
+BB T Field at Groves Stadium,31500,Winston-Salem,North Carolina,1968,Football,Wake Forest Demon Deacons
 Bank of America Stadium,73778,Charlotte,North Carolina,1996,Football,"Carolina Panthers, Belk Bowl"
 Aggie Stadium,21500,Greensboro,North Carolina,1981,Football,North Carolina A&T Aggies
 The Glass Bowl,26248,Toledo,Ohio,1937,Football,Toledo Rockets
@@ -194,7 +191,7 @@ Mesquite Memorial Stadium,20000,Mesquite,Texas,1977,Football,Local high schools
 McLane Stadium,45140,Waco,Texas,2014,Football,Baylor Bears
 Kyle Field,102512,College Station,Texas,1927,Football,Texas A&M Aggies
 Kimbrough Memorial Stadium,20000,Canyon,Texas,1959,Football,"West Texas A&M University, local high schools"
-Jones AT&T Stadium,61000,Lubbock,Texas,1947,Football,Texas Tech Red Raiders
+Jones AT T Stadium,61000,Lubbock,Texas,1947,Football,Texas Tech Red Raiders
 John O'Quinn Field at Corbin J. Robertson Stadium,32000,Houston,Texas,1942,Football,Houston Cougars
 Jim Wacker Field at Bobcat Stadium,30000,San Marcos,Texas,1981,Football,Texas State Bobcats
 Gerald J. Ford Stadium,32000,University Park,Texas,2000,Football,SMU Mustangs
@@ -202,7 +199,7 @@ FC Dallas Stadium,20500,Frisco,Texas,2005,Soccer,"FC Dallas, NCAA Division I Foo
 Darrell K. Royal?Texas Memorial Stadium[7],100119,Austin,Texas,1924,Football,Texas Longhorns
 Cotton Bowl,92100,Dallas,Texas,1930,Football,"no home team, used for annual Red River Rivalry, State Fair Classic, and Heart of Dallas Bowl"
 BBVA Compass Stadium,22000,Houston,Texas,2012,Football,"Houston Dynamo, Houston Dynamo, Texas Southern Tigers"
-AT&T Stadium,80000,Arlington,Texas,2009,Football,"Dallas Cowboys, Cotton Bowl Classic"
+AT T Stadium,80000,Arlington,Texas,2009,Football,"Dallas Cowboys, Cotton Bowl Classic"
 Apogee Stadium,30850,Denton,Texas,2011,Football,North Texas Mean Green
 Amon G. Carter Stadium,44008,Fort Worth,Texas,1930,Football,"TCU Horned Frogs, The Bell Helicopter Armed Forces Bowl"
 Alamodome,65000,San Antonio,Texas,1993,Football,"UTSA Roadrunners, Alamo Bowl, U.S. Army All-American Bowl"
@@ -225,3 +222,5 @@ Miller Park[31],41900,Milwaukee,Wisconsin,2001,Baseball,Milwaukee Brewers
 Lambeau Field,81435,Green Bay,Wisconsin,1957,Football,Green Bay Packers
 Camp Randall Stadium,80321,Madison,Wisconsin,1917,Football,Wisconsin Badgers
 Jonah Field at War Memorial Stadium,32580,Laramie,Wyoming,1950,Football,Wyoming Cowboys
+Dodger Stadium,56000,Los Angeles,California,1962,Baseball,Los Angeles Dodgers
+Angel Stadium of Anaheim,45050,Anaheim,California,1966,Baseball,Los Angeles Angels of Anaheim
