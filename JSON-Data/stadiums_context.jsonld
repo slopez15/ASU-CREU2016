@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "name": "http://schema.org/name",
+    "geo": "http://schema.org/geo",
+    "address": "",
+    "latitude": {
+      "@id": "http://schema.org/latitude",
+      "@type": "xsd:float"
+    },
+    "longitude": {
+      "@id": "http://schema.org/longitude",
+      "@type": "xsd:float"
+    },
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}
