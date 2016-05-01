@@ -1,2004 +1,1832 @@
 [
     {
         "name": "Veterans Memorial Stadium",
-        "teams": "Football",
-        "address": "Veterans Memorial Stadium, Veterans Dr, Coffeyville, KS 67337, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Troy Trojans",
+        "teams": "Troy Trojans",
         "foundingDate": "1950",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Veterans Memorial Stadium, Veterans Dr, Coffeyville, KS 67337, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.0706651,
-            "longitude": -95.6415231,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.6415231
+        },
+        "capacity": "30000"
     },
     {
         "name": "Alabama State stadium",
-        "teams": "Football",
-        "address": "Stadium Dr, Phenix City, AL, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Alabama State Hornets",
+        "teams": "Alabama State Hornets",
         "foundingDate": "2012",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium Dr, Phenix City, AL, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.4885882,
-            "longitude": -85.02004509999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -85.02004509999999
+        },
+        "capacity": "30000"
     },
     {
         "name": "Legion Field",
-        "teams": "Football",
-        "address": "Legion Field, Palmyra, NJ 08065, USA",
-        "type": "StadiumOrArena",
-        "tenant": "UAB Blazers, BBVA Compass Bowl",
+        "teams": "UAB Blazers, BBVA Compass Bowl",
         "foundingDate": "1926",
-        "capacity": "71594",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Legion Field, Palmyra, NJ 08065, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.0004932,
-            "longitude": -75.02570159999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -75.02570159999999
+        },
+        "capacity": "71594"
     },
     {
         "name": "Jordan-Hare Stadium[14]",
-        "teams": "Football",
-        "address": "Jordan-Hare Stadium, Auburn, AL 36849, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Auburn Tigers",
+        "teams": "Auburn Tigers",
         "foundingDate": "1939",
-        "capacity": "87451",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Jordan-Hare Stadium, Auburn, AL 36849, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.6024428,
-            "longitude": -85.4887917,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -85.4887917
+        },
+        "capacity": "87451"
     },
     {
         "name": "Cramton Bowl",
-        "teams": "Football",
-        "address": "Cramton Bowl, Montgomery, AL 36104, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Alabama State Hornets",
+        "teams": "Alabama State Hornets",
         "foundingDate": "1922",
-        "capacity": "24600",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Cramton Bowl, Montgomery, AL 36104, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.3793049,
-            "longitude": -86.2927466,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -86.2927466
+        },
+        "capacity": "24600"
     },
     {
         "name": "University of Phoenix Stadium",
-        "teams": "Football",
-        "address": "Stadium, Tempe, AZ 85281, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Arizona Cardinals and Fiesta Bowl",
+        "teams": "Arizona Cardinals and Fiesta Bowl",
         "foundingDate": "2006",
-        "capacity": "63400",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium, Tempe, AZ 85281, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.4240585,
-            "longitude": -111.9331633,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -111.9331633
+        },
+        "capacity": "63400"
     },
     {
         "name": "Sun Devil Stadium",
-        "teams": "Football",
-        "address": "Sun Devil Soccer Stadium, Tempe, AZ 85281, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Arizona State Sun Devils",
+        "teams": "Arizona State Sun Devils",
         "foundingDate": "1958",
-        "capacity": "73378",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Sun Devil Soccer Stadium, Tempe, AZ 85281, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.4245488,
-            "longitude": -111.9224158,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Chase Field[23]",
-        "teams": "Baseball",
-        "address": "23 Field Rd, Mildmay, ON N0G 2J0, Canada",
-        "type": "StadiumOrArena",
-        "tenant": "Arizona Diamondbacks",
-        "foundingDate": "1998",
-        "capacity": "49033",
-        "geo": {
-            "latitude": 43.9826501,
-            "longitude": -81.03544079999999,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Arizona Stadium",
-        "teams": "Football",
-        "address": "Arizona Dr, Richmond, VA 23224, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Arizona Wildcats",
-        "foundingDate": "1928",
-        "capacity": "57803",
-        "geo": {
-            "latitude": 37.5016385,
-            "longitude": -77.4828694,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "War Memorial Stadium",
-        "teams": "Football",
-        "address": "War Memorial Stadium, 2405 Spring St, Paso Robles, CA 93446, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Arkansas Razorbacks (secondary to Razorback Stadium)",
-        "foundingDate": "1948",
-        "capacity": "53727",
-        "geo": {
-            "latitude": 35.6396093,
-            "longitude": -120.6943957,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -111.9224158
+        },
+        "capacity": "73378"
     },
     {
         "name": "ASU Stadium",
-        "teams": "Football",
-        "address": "Sun Devil Soccer Stadium, Tempe, AZ 85281, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Arkansas State Red Wolves",
+        "teams": "Arkansas State Red Wolves",
         "foundingDate": "1974",
-        "capacity": "30964",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Sun Devil Soccer Stadium, Tempe, AZ 85281, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.4245488,
-            "longitude": -111.9224158,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -111.9224158
+        },
+        "capacity": "30964"
     },
     {
         "name": "Stanford Stadium",
-        "teams": "Football",
-        "address": "Stanford St, Pasadena, TX 77502, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Stanford Cardinal",
+        "teams": "Stanford Cardinal",
         "foundingDate": "1921;2006",
-        "capacity": "50000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stanford St, Pasadena, TX 77502, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.6813409,
-            "longitude": -95.1725424,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.1725424
+        },
+        "capacity": "50000"
     },
     {
         "name": "Spartan Stadium",
-        "teams": "Football",
-        "address": "SJSU Spartan Stadium, 1251 S 10th St, San Jose, CA 95112, USA",
-        "type": "StadiumOrArena",
-        "tenant": "San Jose State Spartans",
+        "teams": "San Jose State Spartans",
         "foundingDate": "1933",
-        "capacity": "30456",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "SJSU Spartan Stadium, 1251 S 10th St, San Jose, CA 95112, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.3196915,
-            "longitude": -121.8683945,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -121.8683945
+        },
+        "capacity": "30456"
     },
     {
         "name": "Rose Bowl",
-        "teams": "Football",
-        "address": "Rose Bowl, Santa Claus, IN, USA",
-        "type": "StadiumOrArena",
-        "tenant": "UCLA Bruins, the annual Rose Bowl Game",
+        "teams": "UCLA Bruins, the annual Rose Bowl Game",
         "foundingDate": "1922",
-        "capacity": "92542",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Rose Bowl, Santa Claus, IN, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.1295581,
-            "longitude": -86.90449389999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -86.90449389999999
+        },
+        "capacity": "92542"
     },
     {
         "name": "Qualcomm Stadium",
-        "teams": "Multi-purpose",
-        "address": "Stadium Way, San Diego, CA, USA",
-        "type": "StadiumOrArena",
-        "tenant": "San Diego Chargers, San Diego State Aztecs, Holiday Bowl, Poinsettia Bowl",
+        "teams": "San Diego Chargers, San Diego State Aztecs, Holiday Bowl, Poinsettia Bowl",
         "foundingDate": "1967",
-        "capacity": "71294",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Multi-purpose",
+        "address": "Stadium Way, San Diego, CA, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.7822891,
-            "longitude": -117.1169235,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -117.1169235
+        },
+        "capacity": "71294"
     },
     {
         "name": "O.co Coliseum",
-        "teams": "Multi-purpose",
-        "address": "Coliseum, Dallas, TX 75201, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Oakland Raiders, Oakland Athletics",
+        "teams": "Oakland Raiders, Oakland Athletics",
         "foundingDate": "1966",
-        "capacity": "63026",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Multi-purpose",
+        "address": "Coliseum, Dallas, TX 75201, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.7782458,
-            "longitude": -96.75489979999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -96.75489979999999
+        },
+        "capacity": "63026"
     },
     {
         "name": "Los Angeles Memorial Coliseum",
-        "teams": "Football",
-        "address": "Los Angeles, CA, USA",
-        "type": "StadiumOrArena",
-        "tenant": "USC Trojans,Los Angeles Rams",
+        "teams": "USC Trojans,Los Angeles Rams",
         "foundingDate": "1923",
-        "capacity": "93607",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Los Angeles, CA, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 34.0522342,
-            "longitude": -118.2436849,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -118.2436849
+        },
+        "capacity": "93607"
     },
     {
         "name": "Levi's Stadium",
-        "teams": "Football",
-        "address": "Levi\u2019s\u00ae Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA 95054, USA",
-        "type": "StadiumOrArena",
-        "tenant": "San Francisco 49ers, San Jose Earthquakes",
+        "teams": "San Francisco 49ers, San Jose Earthquakes",
         "foundingDate": "2014",
-        "capacity": "68500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Levi\u2019s\u00ae Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA 95054, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.403154,
-            "longitude": -121.9698358,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -121.9698358
+        },
+        "capacity": "68500"
     },
     {
         "name": "Hughes Stadium",
-        "teams": "Multi-purpose",
-        "address": "Hughes Hall, 103 S Jefferson St, Richmond, VA 23284, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Various sporting events",
+        "teams": "Various sporting events",
         "foundingDate": "1928",
-        "capacity": "20311",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Multi-purpose",
+        "address": "Hughes Hall, 103 S Jefferson St, Richmond, VA 23284, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.5426956,
-            "longitude": -77.4471179,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Hornet Stadium",
-        "teams": "Football",
-        "address": "Hornet Stadium, Era, TX 76238, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Sacramento State Hornets",
-        "foundingDate": "1969",
-        "capacity": "21650",
-        "geo": {
-            "latitude": 33.4984002,
-            "longitude": -97.29108409999999,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Candlestick Park",
-        "teams": "Multi-purpose",
-        "address": "Candlestick Park, San Francisco, CA 94124, USA",
-        "type": "StadiumOrArena",
-        "tenant": "no home team",
-        "foundingDate": "1960",
-        "capacity": "70207",
-        "geo": {
-            "latitude": 37.7138845,
-            "longitude": -122.3876407,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -77.4471179
+        },
+        "capacity": "20311"
     },
     {
         "name": "California Memorial Stadium",
-        "teams": "Football",
-        "address": "Memorial Stadium, Delano, CA 93215, USA",
-        "type": "StadiumOrArena",
-        "tenant": "California Golden Bears",
+        "teams": "California Golden Bears",
         "foundingDate": "1923",
-        "capacity": "62717",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Memorial Stadium, Delano, CA 93215, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 35.7789453,
-            "longitude": -119.2373451,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -119.2373451
+        },
+        "capacity": "62717"
     },
     {
         "name": "Bulldog Stadium",
-        "teams": "Football",
-        "address": "Bulldog Stadium, Bowie, MD 20715, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Fresno State Bulldogs",
+        "teams": "Fresno State Bulldogs",
         "foundingDate": "1980",
-        "capacity": "41031",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Bulldog Stadium, Bowie, MD 20715, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.0219079,
-            "longitude": -76.7547531,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -76.7547531
+        },
+        "capacity": "41031"
     },
     {
         "name": "AT T Park",
-        "teams": "Baseball",
-        "address": "A T, Withee, WI 54498, USA",
-        "type": "StadiumOrArena",
-        "tenant": "San Francisco Giants, Fight Hunger Bowl",
+        "teams": "San Francisco Giants, Fight Hunger Bowl",
         "foundingDate": "2000",
-        "capacity": "41503",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "A T, Withee, WI 54498, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 45.0456199,
-            "longitude": -90.6184721,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -90.6184721
+        },
+        "capacity": "41503"
     },
     {
         "name": "Mile High Stadium",
-        "teams": "Football",
-        "address": "Mile High Stadium W Cir, Denver, CO 80204, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Denver Broncos",
+        "teams": "Denver Broncos",
         "foundingDate": "2001",
-        "capacity": "76125",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Mile High Stadium W Cir, Denver, CO 80204, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.74338110000001,
-            "longitude": -105.0236619,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -105.0236619
+        },
+        "capacity": "76125"
     },
     {
         "name": "Folsom Field",
-        "teams": "Football",
-        "address": "Cullman Regional Airport - Folsom Field, 231 Co Rd 1360, Vinemont, AL 35179, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Colorado Buffaloes",
+        "teams": "Colorado Buffaloes",
         "foundingDate": "1924",
-        "capacity": "53750",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Cullman Regional Airport - Folsom Field, 231 Co Rd 1360, Vinemont, AL 35179, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 34.2709279,
-            "longitude": -86.8586375,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -86.8586375
+        },
+        "capacity": "53750"
     },
     {
         "name": "Falcon Stadium",
-        "teams": "Football",
-        "address": "South Connellsville Athletic Field, Connellsville, PA 15425, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Air Force Falcons",
+        "teams": "Air Force Falcons",
         "foundingDate": "1962",
-        "capacity": "52480",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "South Connellsville Athletic Field, Connellsville, PA 15425, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.0066625,
-            "longitude": -79.5908946,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -79.5908946
+        },
+        "capacity": "52480"
     },
     {
         "name": "Coors Field[19]",
-        "teams": "Baseball",
-        "address": "Coors-Damm, 49626 Berge, Germany",
-        "type": "StadiumOrArena",
-        "tenant": "Colorado Rockies",
+        "teams": "Colorado Rockies",
         "foundingDate": "1995",
-        "capacity": "50445",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Coors-Damm, 49626 Berge, Germany",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 52.6206754,
-            "longitude": 7.7509218,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 7.7509218
+        },
+        "capacity": "50445"
     },
     {
         "name": "Yale Bowl",
-        "teams": "Football",
-        "address": "Yale St, Hemet, CA 92544, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Yale Bulldogs",
+        "teams": "Yale Bulldogs",
         "foundingDate": "1914",
-        "capacity": "64269",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Yale St, Hemet, CA 92544, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.7331373,
-            "longitude": -116.9498558,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Rentschler Field",
-        "teams": "Football",
-        "address": "Rentschler Ln, Toppenish, WA 98948, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Connecticut Huskies, Hartford Colonials",
-        "foundingDate": "2003",
-        "capacity": "40000",
-        "geo": {
-            "latitude": 46.3773706,
-            "longitude": -120.3216316,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Delaware Stadium",
-        "teams": "Football",
-        "address": "Stadium Dr, Wilmington, DE, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Delaware Fightin' Blue Hens",
-        "foundingDate": "1952",
-        "capacity": "22000",
-        "geo": {
-            "latitude": 39.7601608,
-            "longitude": -75.5530425,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -116.9498558
+        },
+        "capacity": "64269"
     },
     {
         "name": "Nationals Park[32]",
-        "teams": "Baseball",
-        "address": "Nats. Park, Samarskaya oblast', Russia, 446420",
-        "type": "StadiumOrArena",
-        "tenant": "Washington Nationals",
+        "teams": "Washington Nationals",
         "foundingDate": "2008",
-        "capacity": "41888",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Nats. Park, Samarskaya oblast', Russia, 446420",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 53.0740783,
-            "longitude": 51.0869398,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 51.0869398
+        },
+        "capacity": "41888"
     },
     {
         "name": "Tropicana Field[46]",
-        "teams": "Baseball",
-        "address": "Tv. Tropicana, 46 - Jardim da Conquista, S\u00e3o Paulo - SP, 08345-250, Brazil",
-        "type": "StadiumOrArena",
-        "tenant": "Tampa Bay Rays, Beef 'O' Brady's Bowl",
+        "teams": "Tampa Bay Rays, Beef 'O' Brady's Bowl",
         "foundingDate": "1990",
-        "capacity": "36973",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Tv. Tropicana, 46 - Jardim da Conquista, S\u00e3o Paulo - SP, 08345-250, Brazil",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": -23.611543,
-            "longitude": -46.44383920000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -46.44383920000001
+        },
+        "capacity": "36973"
     },
     {
         "name": "The Florida Citrus Bowl",
-        "teams": "Football",
-        "address": "Lot 7 Citrus Bowl, 1498 W South St, Orlando, FL 32805, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Orlando City SC, Jones Tigers, annual Florida Classic,Capital One Bowl, Champs Sports Bowl, and East-West Shrine Game",
+        "teams": "Orlando City SC, Jones Tigers, annual Florida Classic,Capital One Bowl, Champs Sports Bowl, and East-West Shrine Game",
         "foundingDate": "1936",
-        "capacity": "70000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Lot 7 Citrus Bowl, 1498 W South St, Orlando, FL 32805, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 28.5379513,
-            "longitude": -81.40022689999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.40022689999999
+        },
+        "capacity": "70000"
     },
     {
         "name": "Marlins Park[45]",
-        "teams": "Baseball",
-        "address": "Marlins 45, Rinconada, 71983 Puerto Escondido, Oax., Mexico",
-        "type": "StadiumOrArena",
-        "tenant": "Miami Marlins",
+        "teams": "Miami Marlins",
         "foundingDate": "2012",
-        "capacity": "37000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Marlins 45, Rinconada, 71983 Puerto Escondido, Oax., Mexico",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 15.862871,
-            "longitude": -97.0802851,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.0802851
+        },
+        "capacity": "37000"
     },
     {
         "name": "Lockhart Stadium",
-        "teams": "Soccer",
-        "address": "Lockhart Cl, London N7 8ST, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Fort Lauderdale Strikers",
+        "teams": "Fort Lauderdale Strikers",
         "foundingDate": "1959",
-        "capacity": "20450",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Soccer",
+        "address": "Lockhart Cl, London N7 8ST, UK",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 51.5467252,
-            "longitude": -0.1169436,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -0.1169436
+        },
+        "capacity": "20450"
     },
     {
         "name": "FIU Stadium",
-        "teams": "Football",
-        "address": "Fiu Stadium Dr, North Miami, FL 33181, USA",
-        "type": "StadiumOrArena",
-        "tenant": "FIU Golden Panthers, Miami FC",
+        "teams": "FIU Golden Panthers, Miami FC",
         "foundingDate": "1995",
-        "capacity": "20000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Fiu Stadium Dr, North Miami, FL 33181, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 25.9165748,
-            "longitude": -80.147469,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -80.147469
+        },
+        "capacity": "20000"
     },
     {
         "name": "FAU Stadium",
-        "teams": "Football",
-        "address": "Baseball Stadium, Boca Raton, FL 33431, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Florida Atlantic Owls",
+        "teams": "Florida Atlantic Owls",
         "foundingDate": "2011",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Baseball Stadium, Boca Raton, FL 33431, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 26.3702709,
-            "longitude": -80.1095751,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -80.1095751
+        },
+        "capacity": "30000"
     },
     {
         "name": "Bright House Networks Stadium",
-        "teams": "Football",
-        "address": "Bright House Networks Stadium, Oviedo, FL 32765, USA",
-        "type": "StadiumOrArena",
-        "tenant": "UCF Knights",
+        "teams": "UCF Knights",
         "foundingDate": "2007",
-        "capacity": "45301",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Bright House Networks Stadium, Oviedo, FL 32765, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 28.608254,
-            "longitude": -81.1931793,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.1931793
+        },
+        "capacity": "45301"
     },
     {
         "name": "Ben Hill Griffin Stadium[13]",
-        "teams": "Football",
-        "address": "Ben Hill Griffin Stadium, Gainesville, FL 32608, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Florida Gators",
+        "teams": "Florida Gators",
         "foundingDate": "1930",
-        "capacity": "88548",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Ben Hill Griffin Stadium, Gainesville, FL 32608, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.6500191,
-            "longitude": -82.34807119999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -82.34807119999999
+        },
+        "capacity": "88548"
     },
     {
         "name": "Turner Field[21]",
-        "teams": "Baseball",
-        "address": "Turner Field, Fresno, CA 93725, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Atlanta Braves",
+        "teams": "Atlanta Braves",
         "foundingDate": "1996",
-        "capacity": "50096",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Turner Field, Fresno, CA 93725, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 36.6731102,
-            "longitude": -119.7214361,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -119.7214361
+        },
+        "capacity": "50096"
     },
     {
         "name": "Sanford Stadium[10]",
-        "teams": "Football",
-        "address": "10 Sanford Ln, London N16 7LB, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Georgia Bulldogs",
+        "teams": "Georgia Bulldogs",
         "foundingDate": "1929",
-        "capacity": "92746",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "10 Sanford Ln, London N16 7LB, UK",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 51.5620524,
-            "longitude": -0.0714652,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -0.0714652
+        },
+        "capacity": "92746"
     },
     {
         "name": "Georgia Dome",
-        "teams": "Football",
-        "address": "Georgia Dome, 3535 Piedmont Rd NE, Atlanta, GA 30305, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Atlanta Falcons,Georgia State Panthers,SEC Championship Game,Chick-fil-A Bowl",
+        "teams": "Atlanta Falcons,Georgia State Panthers,SEC Championship Game,Chick-fil-A Bowl",
         "foundingDate": "1992",
-        "capacity": "71228",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Georgia Dome, 3535 Piedmont Rd NE, Atlanta, GA 30305, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.8529003,
-            "longitude": -84.37717730000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.37717730000001
+        },
+        "capacity": "71228"
     },
     {
         "name": "Aloha Stadium",
-        "teams": "Football",
-        "address": "Sprunk Stadium, Portland, OR 97225, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Hawaii Warriors, local high schools and Pro Bowl",
+        "teams": "Hawaii Warriors, local high schools and Pro Bowl",
         "foundingDate": "1975",
-        "capacity": "50000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Sprunk Stadium, Portland, OR 97225, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 45.484102,
-            "longitude": -122.7709885,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -122.7709885
+        },
+        "capacity": "50000"
     },
     {
         "name": "Bronco Stadium",
-        "teams": "Football",
-        "address": "Mile High Stadium W Cir, Denver, CO 80204, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Boise State Broncos,Famous Idaho Potato Bowl",
+        "teams": "Boise State Broncos,Famous Idaho Potato Bowl",
         "foundingDate": "1970",
-        "capacity": "37000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Mile High Stadium W Cir, Denver, CO 80204, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.74338110000001,
-            "longitude": -105.0236619,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Wrigley Field[35][36]",
-        "teams": "Baseball",
-        "address": "35 Wrigley, Irvine, CA 92618, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Chicago Cubs",
-        "foundingDate": "1914",
-        "capacity": "41160",
-        "geo": {
-            "latitude": 33.6406085,
-            "longitude": -117.719277,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "U.S. Cellular Field[38]",
-        "teams": "Baseball",
-        "address": "Lot L - U.S. Cellular Field, W 38th St, Chicago, IL 60609, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Chicago White Sox",
-        "foundingDate": "1991",
-        "capacity": "40615",
-        "geo": {
-            "latitude": 41.8249469,
-            "longitude": -87.6349872,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -105.0236619
+        },
+        "capacity": "37000"
     },
     {
         "name": "Toyota Park",
-        "teams": "Soccer",
-        "address": "Toyota, 54590 Arifiye/Sakarya, Turkey",
-        "type": "StadiumOrArena",
-        "tenant": "Chicago Fire Soccer Club",
+        "teams": "Chicago Fire Soccer Club",
         "foundingDate": "2006",
-        "capacity": "20000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Soccer",
+        "address": "Toyota, 54590 Arifiye/Sakarya, Turkey",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.7127882,
-            "longitude": 30.392364,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 30.392364
+        },
+        "capacity": "20000"
     },
     {
         "name": "Soldier Field",
-        "teams": "Football",
-        "address": "Soldier Field, Dover, DE 19901, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Chicago Bears",
+        "teams": "Chicago Bears",
         "foundingDate": "1924;2003",
-        "capacity": "61500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Soldier Field, Dover, DE 19901, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.1844672,
-            "longitude": -75.5460477,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -75.5460477
+        },
+        "capacity": "61500"
     },
     {
         "name": "Ryan Field",
-        "teams": "Football",
-        "address": "Ryan, Winfield, KS 67156, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Northwestern Wildcats",
+        "teams": "Northwestern Wildcats",
         "foundingDate": "1996",
-        "capacity": "47130",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Ryan, Winfield, KS 67156, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.1795851,
-            "longitude": -96.99728300000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -96.99728300000001
+        },
+        "capacity": "47130"
     },
     {
         "name": "Memorial Stadium",
-        "teams": "Football",
-        "address": "Memorial Stadium, Columbus, GA 31901, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Illinois Fighting Illini",
+        "teams": "Illinois Fighting Illini",
         "foundingDate": "1923",
-        "capacity": "62872",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Memorial Stadium, Columbus, GA 31901, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.4503397,
-            "longitude": -84.9830542,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.9830542
+        },
+        "capacity": "62872"
     },
     {
         "name": "Notre Dame Stadium",
-        "teams": "Football",
-        "address": "Notre Dame Stadium, Notre Dame, IN 46556, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Notre Dame Fighting Irish",
+        "teams": "Notre Dame Fighting Irish",
         "foundingDate": "1930",
-        "capacity": "80795",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Notre Dame Stadium, Notre Dame, IN 46556, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.6983168,
-            "longitude": -86.233158,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -86.233158
+        },
+        "capacity": "80795"
     },
     {
         "name": "Memorial Stadium",
-        "teams": "Football",
-        "address": "Memorial Stadium, Columbus, GA 31901, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Indiana Hoosiers",
+        "teams": "Indiana Hoosiers",
         "foundingDate": "1960",
-        "capacity": "53500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Memorial Stadium, Columbus, GA 31901, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.4503397,
-            "longitude": -84.9830542,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Jack Trice Stadium",
-        "teams": "Football",
-        "address": "S. 4th St. at Victory Lane, Ames, IA 50011, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Iowa State Cyclones",
-        "foundingDate": "1975",
-        "capacity": "61500",
-        "geo": {
-            "latitude": 42.016333,
-            "longitude": -93.635593,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.9830542
+        },
+        "capacity": "53500"
     },
     {
         "name": "University of Kansas Memorial Stadium",
-        "teams": "Football",
-        "address": "Heskell Memorial Stadium, E Indian Ave, Lawrence, KS 66046, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Kansas Jayhawks",
+        "teams": "Kansas Jayhawks",
         "foundingDate": "1921",
-        "capacity": "50071",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Heskell Memorial Stadium, E Indian Ave, Lawrence, KS 66046, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.9402107,
-            "longitude": -95.2304578,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.2304578
+        },
+        "capacity": "50071"
     },
     {
         "name": "Commonwealth Stadium",
-        "teams": "Football",
-        "address": "Commonwealth Stadium, Lexington, KY 40502, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Kentucky Wildcats",
+        "teams": "Kentucky Wildcats",
         "foundingDate": "1973",
-        "capacity": "67606",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Commonwealth Stadium, Lexington, KY 40502, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.0222326,
-            "longitude": -84.50563009999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.50563009999999
+        },
+        "capacity": "67606"
     },
     {
         "name": "Tiger Stadium[5]",
-        "teams": "Football",
-        "address": "Tiger Stadium, Bentonville, AR 72712, USA",
-        "type": "StadiumOrArena",
-        "tenant": "LSU Tigers",
+        "teams": "LSU Tigers",
         "foundingDate": "1924",
-        "capacity": "102321",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Tiger Stadium, Bentonville, AR 72712, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 36.352772,
-            "longitude": -94.19810299999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -94.19810299999999
+        },
+        "capacity": "102321"
     },
     {
         "name": "Malone Stadium",
-        "teams": "Football",
-        "address": "Malone Village Arena, 64 State St, Malone, NY 12953, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Louisiana Monroe Warhawks",
+        "teams": "Louisiana Monroe Warhawks",
         "foundingDate": "1978",
-        "capacity": "30427",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Malone Village Arena, 64 State St, Malone, NY 12953, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.8402698,
-            "longitude": -74.2834594,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Independence Stadium",
-        "teams": "Football",
-        "address": "N Stadium, Monmouth, OR 97361, USA",
-        "type": "StadiumOrArena",
-        "tenant": "no home team, Independence Bowl",
-        "foundingDate": "1925",
-        "capacity": "50832",
-        "geo": {
-            "latitude": 44.8522128,
-            "longitude": -123.2595631,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Eddie Robinson Stadium",
-        "teams": "Football",
-        "address": "Robinson Oil Field, New Mexico 88210, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Grambling State Tigers",
-        "foundingDate": "1983",
-        "capacity": "25600",
-        "geo": {
-            "latitude": 32.8801175,
-            "longitude": -103.8457847,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -74.2834594
+        },
+        "capacity": "30427"
     },
     {
         "name": "Cajun Field",
-        "teams": "Football",
-        "address": "Cajun Field Rd, Ventress, LA 70783, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Louisiana-Lafayette Ragin' Cajuns",
+        "teams": "Louisiana-Lafayette Ragin' Cajuns",
         "foundingDate": "1971",
-        "capacity": "31000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Cajun Field Rd, Ventress, LA 70783, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 30.6922502,
-            "longitude": -91.40990850000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -91.40990850000001
+        },
+        "capacity": "31000"
     },
     {
         "name": "Oriole Park at Camden Yards[24]",
-        "teams": "Baseball",
-        "address": "London Borough of Camden, Greater London, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Baltimore Orioles",
+        "teams": "Baltimore Orioles",
         "foundingDate": "1992",
-        "capacity": "48876",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "London Borough of Camden, Greater London, UK",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 51.55170589999999,
-            "longitude": -0.1588255,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -0.1588255
+        },
+        "capacity": "48876"
     },
     {
         "name": "M T Bank Stadium",
-        "teams": "Football",
-        "address": "Stadium, Sunset Valley, TX 78745, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Baltimore Ravens",
+        "teams": "Baltimore Ravens",
         "foundingDate": "1998",
-        "capacity": "71008",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium, Sunset Valley, TX 78745, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 30.2299203,
-            "longitude": -97.80686449999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.80686449999999
+        },
+        "capacity": "71008"
     },
     {
         "name": "FedExField[15]",
-        "teams": "Football",
-        "address": "Fedex Way, Hyattsville, MD 20785, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Washington Redskins",
+        "teams": "Washington Redskins",
         "foundingDate": "1997",
-        "capacity": "82000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Fedex Way, Hyattsville, MD 20785, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.9061964,
-            "longitude": -76.8645299,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -76.8645299
+        },
+        "capacity": "82000"
     },
     {
         "name": "Byrd Stadium",
-        "teams": "Football",
-        "address": "Byrd Stadium, College Park, MD 20740, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Maryland Terrapins",
+        "teams": "Maryland Terrapins",
         "foundingDate": "1950",
-        "capacity": "51500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Byrd Stadium, College Park, MD 20740, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.9905169,
-            "longitude": -76.9482823,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -76.9482823
+        },
+        "capacity": "51500"
     },
     {
         "name": "Harvard Stadium",
-        "teams": "Football",
-        "address": "Harvard Ave, Midland, TX 79703, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Harvard Crimson, Boston Cannons",
+        "teams": "Harvard Crimson, Boston Cannons",
         "foundingDate": "1903",
-        "capacity": "30323",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Harvard Ave, Midland, TX 79703, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 31.9945884,
-            "longitude": -102.1471022,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -102.1471022
+        },
+        "capacity": "30323"
     },
     {
         "name": "Gillette Stadium",
-        "teams": "Football",
-        "address": "Gillette Stadium MBTA Stop, Foxborough, MA 02035, USA",
-        "type": "StadiumOrArena",
-        "tenant": "New England Revolution, New England Patriots, UMass Minutemen",
+        "teams": "New England Revolution, New England Patriots, UMass Minutemen",
         "foundingDate": "2002",
-        "capacity": "68756",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Gillette Stadium MBTA Stop, Foxborough, MA 02035, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 42.0953684,
-            "longitude": -71.2616479,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Fitton Field",
-        "teams": "Football",
-        "address": "Fitton, Dewsbury, Dewsbury, West Yorkshire WF13, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Holy Cross Crusaders",
-        "foundingDate": "1924",
-        "capacity": "23500",
-        "geo": {
-            "latitude": 53.70057,
-            "longitude": -1.649527,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Fenway Park[44]",
-        "teams": "Baseball",
-        "address": "44 Fenway, Bicester, Oxfordshire OX25, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Boston Red Sox",
-        "foundingDate": "1912",
-        "capacity": "37402",
-        "geo": {
-            "latitude": 51.9325679,
-            "longitude": -1.3171359,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -71.2616479
+        },
+        "capacity": "68756"
     },
     {
         "name": "Alumni Stadium",
-        "teams": "Football",
-        "address": "Alumni Stadium, Braintree, MA 02184, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Boston College Eagles",
+        "teams": "Boston College Eagles",
         "foundingDate": "1957",
-        "capacity": "44500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Alumni Stadium, Braintree, MA 02184, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 42.2069224,
-            "longitude": -71.0191327,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -71.0191327
+        },
+        "capacity": "44500"
     },
     {
         "name": "Waldo Stadium",
-        "teams": "Football",
-        "address": "Stadium Ave, Mill Valley, CA 94941, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Western Michigan Broncos",
+        "teams": "Western Michigan Broncos",
         "foundingDate": "1939",
-        "capacity": "30200",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium Ave, Mill Valley, CA 94941, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.88928,
-            "longitude": -122.5302175,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -122.5302175
+        },
+        "capacity": "30200"
     },
     {
         "name": "Spartan Stadium",
-        "teams": "Football",
-        "address": "SJSU Spartan Stadium, 1251 S 10th St, San Jose, CA 95112, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Michigan State Spartans",
+        "teams": "Michigan State Spartans",
         "foundingDate": "1923",
-        "capacity": "75005",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "SJSU Spartan Stadium, 1251 S 10th St, San Jose, CA 95112, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.3196915,
-            "longitude": -121.8683945,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -121.8683945
+        },
+        "capacity": "75005"
     },
     {
         "name": "Michigan Stadium[1]",
-        "teams": "Football",
-        "address": "Stadium Dr, Traverse City, MI 49685, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Michigan Wolverines",
+        "teams": "Michigan Wolverines",
         "foundingDate": "1927",
-        "capacity": "107601",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium Dr, Traverse City, MI 49685, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.6820137,
-            "longitude": -85.6623296,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -85.6623296
+        },
+        "capacity": "107601"
     },
     {
         "name": "Ford Field",
-        "teams": "Football",
-        "address": "Ford, Muscle Shoals, AL 35661, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Detroit Lions, MAC Championship Game, Little Caesars Pizza Bowl",
+        "teams": "Detroit Lions, MAC Championship Game, Little Caesars Pizza Bowl",
         "foundingDate": "2002",
-        "capacity": "65000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Ford, Muscle Shoals, AL 35661, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 34.7717339,
-            "longitude": -87.6298956,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -87.6298956
+        },
+        "capacity": "65000"
     },
     {
         "name": "Comerica Park[34]",
-        "teams": "Baseball",
-        "address": "R. do Comerico, 34 - Centro, Santo Amaro - BA, 44200-000, Brazil",
-        "type": "StadiumOrArena",
-        "tenant": "Detroit Tigers",
+        "teams": "Detroit Tigers",
         "foundingDate": "2000",
-        "capacity": "41782",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "R. do Comerico, 34 - Centro, Santo Amaro - BA, 44200-000, Brazil",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": -12.5529661,
-            "longitude": -38.7043909,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -38.7043909
+        },
+        "capacity": "41782"
     },
     {
         "name": "TCF Bank Stadium",
-        "teams": "Football",
-        "address": "TCF Bank Stadium, Minneapolis, MN 55414, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Minnesota Golden Gophers",
+        "teams": "Minnesota Golden Gophers",
         "foundingDate": "2009",
-        "capacity": "50805",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "TCF Bank Stadium, Minneapolis, MN 55414, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.9761659,
-            "longitude": -93.22496679999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -93.22496679999999
+        },
+        "capacity": "50805"
     },
     {
         "name": "Target Field[40]",
-        "teams": "Baseball",
-        "address": "40 Target Rd, Airdrie, North Lanarkshire ML6 9PY, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Minnesota Twins",
+        "teams": "Minnesota Twins",
         "foundingDate": "2010",
-        "capacity": "39504",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "40 Target Rd, Airdrie, North Lanarkshire ML6 9PY, UK",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 55.860259,
-            "longitude": -3.9667801,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -3.9667801
+        },
+        "capacity": "39504"
     },
     {
         "name": "Mississippi Veterans Memorial Stadium",
-        "teams": "Football",
-        "address": "Mississippi, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Jackson State Tigers",
+        "teams": "Jackson State Tigers",
         "foundingDate": "1941",
-        "capacity": "60492",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Mississippi, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.3546679,
-            "longitude": -89.3985283,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -89.3985283
+        },
+        "capacity": "60492"
     },
     {
         "name": "M. M. Roberts Stadium",
-        "teams": "Football",
-        "address": "Roberts Stadium, Princeton, NJ 08540, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Southern Miss Golden Eagles",
+        "teams": "Southern Miss Golden Eagles",
         "foundingDate": "1932",
-        "capacity": "36000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Roberts Stadium, Princeton, NJ 08540, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.3421907,
-            "longitude": -74.6544602,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -74.6544602
+        },
+        "capacity": "36000"
     },
     {
         "name": "Jack Spinks Stadium",
-        "teams": "Football",
-        "address": "Jack Spinks Football Stadium, MS-552, Lorman, MS 39096, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Alcorn State Braves",
+        "teams": "Alcorn State Braves",
         "foundingDate": "1992",
-        "capacity": "22500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Jack Spinks Football Stadium, MS-552, Lorman, MS 39096, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 31.8736536,
-            "longitude": -91.1349007,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -91.1349007
+        },
+        "capacity": "22500"
     },
     {
         "name": "Faurot Field",
-        "teams": "Football",
-        "address": "Faurot, 07320 Saint-Jeure-d'Andaure, France",
-        "type": "StadiumOrArena",
-        "tenant": "Missouri Tigers",
+        "teams": "Missouri Tigers",
         "foundingDate": "1926",
-        "capacity": "71004",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Faurot, 07320 Saint-Jeure-d'Andaure, France",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 45.0514406,
-            "longitude": 4.4616562,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 4.4616562
+        },
+        "capacity": "71004"
     },
     {
         "name": "Busch Stadium[26]",
-        "teams": "Baseball",
-        "address": "Stadium Rd, Bridgetown, Barbados",
-        "type": "StadiumOrArena",
-        "tenant": "St. Louis Cardinals",
+        "teams": "St. Louis Cardinals",
         "foundingDate": "2006",
-        "capacity": "46861",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Stadium Rd, Bridgetown, Barbados",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 13.1194691,
-            "longitude": -59.605701,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -59.605701
+        },
+        "capacity": "46861"
     },
     {
         "name": "Arrowhead Stadium",
-        "teams": "Football",
-        "address": "Arrowhead Stadium, Suffolk, VA 23435, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Kansas City Chiefs",
+        "teams": "Kansas City Chiefs",
         "foundingDate": "1972",
-        "capacity": "76416",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Arrowhead Stadium, Suffolk, VA 23435, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 36.8043657,
-            "longitude": -76.5182935,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "TD Ameritrade Park Omaha",
-        "teams": "Baseball",
-        "address": "Td Ameritrade Park, 17606 Arbor Plaza, Omaha, NE 68130, USA",
-        "type": "StadiumOrArena",
-        "tenant": "NCAA College World Series",
-        "foundingDate": "2011",
-        "capacity": "24000",
-        "geo": {
-            "latitude": 41.236242,
-            "longitude": -96.19064979999999,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Memorial Stadium[12]",
-        "teams": "Football",
-        "address": "Memorial Stadium, Westerville, OH 43081, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Nebraska Cornhuskers",
-        "foundingDate": "1923",
-        "capacity": "91000",
-        "geo": {
-            "latitude": 40.1284226,
-            "longitude": -82.9370472,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -76.5182935
+        },
+        "capacity": "76416"
     },
     {
         "name": "Mackay Stadium[47]",
-        "teams": "Football",
-        "address": "47 Mackay St, Randfontein, 1759, South Africa",
-        "type": "StadiumOrArena",
-        "tenant": "Nevada Wolf Pack and women's soccer",
+        "teams": "Nevada Wolf Pack and women's soccer",
         "foundingDate": "1966",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "47 Mackay St, Randfontein, 1759, South Africa",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": -26.166174,
-            "longitude": 27.7101707,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 27.7101707
+        },
+        "capacity": "30000"
     },
     {
         "name": "Red Bull Arena",
-        "teams": "Soccer",
-        "address": "Kle\u00dfheim Red Bull Arena, 5071, Austria",
-        "type": "StadiumOrArena",
-        "tenant": "New York Red Bulls",
+        "teams": "New York Red Bulls",
         "foundingDate": "2010",
-        "capacity": "25189",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Soccer",
+        "address": "Kle\u00dfheim Red Bull Arena, 5071, Austria",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 47.815426,
-            "longitude": 13.000092,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 13.000092
+        },
+        "capacity": "25189"
     },
     {
         "name": "Princeton University Stadium",
-        "teams": "Football",
-        "address": "Princeton, NJ, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Princeton Tigers",
+        "teams": "Princeton Tigers",
         "foundingDate": "1998",
-        "capacity": "27800",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Princeton, NJ, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.3572976,
-            "longitude": -74.6672226,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -74.6672226
+        },
+        "capacity": "27800"
     },
     {
         "name": "MetLife Stadium",
-        "teams": "Football",
-        "address": "MetLife Stadium Dr, East Rutherford, NJ 07073, USA",
-        "type": "StadiumOrArena",
-        "tenant": "New York Giants, New York Jets",
+        "teams": "New York Giants, New York Jets",
         "foundingDate": "2010",
-        "capacity": "82500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "MetLife Stadium Dr, East Rutherford, NJ 07073, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.8142909,
-            "longitude": -74.0726241,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -74.0726241
+        },
+        "capacity": "82500"
     },
     {
         "name": "High Point Solutions Stadium",
-        "teams": "Football",
-        "address": "High Point, NC, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Rutgers Scarlet Knights",
+        "teams": "Rutgers Scarlet Knights",
         "foundingDate": "1994",
-        "capacity": "52454",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "High Point, NC, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 35.9556923,
-            "longitude": -80.0053176,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -80.0053176
+        },
+        "capacity": "52454"
     },
     {
         "name": "University Stadium",
-        "teams": "Football",
-        "address": "University Stadium, Madam Mitterrand, Sulaymaniyah, Iraq",
-        "type": "StadiumOrArena",
-        "tenant": "New Mexico Lobos, New Mexico Bowl",
+        "teams": "New Mexico Lobos, New Mexico Bowl",
         "foundingDate": "1960",
-        "capacity": "40094",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "University Stadium, Madam Mitterrand, Sulaymaniyah, Iraq",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 35.5689271,
-            "longitude": 45.44491360000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 45.44491360000001
+        },
+        "capacity": "40094"
     },
     {
         "name": "Yankee Stadium[20]",
-        "teams": "Baseball",
-        "address": "Yankee, Tierra y Libertad, 85880 Navojoa, Son., Mexico",
-        "type": "StadiumOrArena",
-        "tenant": "New York Yankees, New York City FC, Pinstripe Bowl",
+        "teams": "New York Yankees, New York City FC, Pinstripe Bowl",
         "foundingDate": "2009",
-        "capacity": "50291",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Yankee, Tierra y Libertad, 85880 Navojoa, Son., Mexico",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 27.0806113,
-            "longitude": -109.4108411,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -109.4108411
+        },
+        "capacity": "50291"
     },
     {
         "name": "UB Stadium",
-        "teams": "Football",
-        "address": "Block UB, Jawahar Nagar, Kamla Nagar, New Delhi, Delhi 110007, India",
-        "type": "StadiumOrArena",
-        "tenant": "Buffalo Bulls",
+        "teams": "Buffalo Bulls",
         "foundingDate": "1993",
-        "capacity": "29013",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Block UB, Jawahar Nagar, Kamla Nagar, New Delhi, Delhi 110007, India",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 28.6813724,
-            "longitude": 77.2056647,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Schoellkopf Field",
-        "teams": "Football",
-        "address": "Schoellkopf Rd, Cowlesville, NY 14037, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Cornell Big Red",
-        "foundingDate": "1915",
-        "capacity": "25597",
-        "geo": {
-            "latitude": 42.8177813,
-            "longitude": -78.43693300000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 77.2056647
+        },
+        "capacity": "29013"
     },
     {
         "name": "Citi Field[33]",
-        "teams": "Baseball",
-        "address": "City Rd, Suratgarh, Rajasthan 335804, India",
-        "type": "StadiumOrArena",
-        "tenant": "New York Mets",
+        "teams": "New York Mets",
         "foundingDate": "2009",
-        "capacity": "41800",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "City Rd, Suratgarh, Rajasthan 335804, India",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.322128,
-            "longitude": 73.89661439999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 73.89661439999999
+        },
+        "capacity": "41800"
     },
     {
         "name": "Carter-Finley Stadium[17]",
-        "teams": "Football",
-        "address": "Carter-Finley Stadium, Raleigh, NC 27607, USA",
-        "type": "StadiumOrArena",
-        "tenant": "NC State Wolfpack",
+        "teams": "NC State Wolfpack",
         "foundingDate": "1966",
-        "capacity": "57583",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Carter-Finley Stadium, Raleigh, NC 27607, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 35.80044350000001,
-            "longitude": -78.72004849999999,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Bank of America Stadium",
-        "teams": "Football",
-        "address": "Stadium St, East Bank, WV 25067, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Carolina Panthers, Belk Bowl",
-        "foundingDate": "1996",
-        "capacity": "73778",
-        "geo": {
-            "latitude": 38.2158878,
-            "longitude": -81.44723739999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -78.72004849999999
+        },
+        "capacity": "57583"
     },
     {
         "name": "Aggie Stadium",
-        "teams": "Football",
-        "address": "Aggie Stadium, Davis, CA 95616, USA",
-        "type": "StadiumOrArena",
-        "tenant": "North Carolina A&T Aggies",
+        "teams": "North Carolina A&T Aggies",
         "foundingDate": "1981",
-        "capacity": "21500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Aggie Stadium, Davis, CA 95616, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 38.5365437,
-            "longitude": -121.7626435,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -121.7626435
+        },
+        "capacity": "21500"
     },
     {
         "name": "The Glass Bowl",
-        "teams": "Football",
-        "address": "North Glass Bowl Drive, Toledo, OH 43606, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Toledo Rockets",
+        "teams": "Toledo Rockets",
         "foundingDate": "1937",
-        "capacity": "26248",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "North Glass Bowl Drive, Toledo, OH 43606, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.6581836,
-            "longitude": -83.6141604,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -83.6141604
+        },
+        "capacity": "26248"
     },
     {
         "name": "Stambaugh Stadium",
-        "teams": "Football",
-        "address": "Stambaugh Stadium - East Building, 5th Ave, Youngstown, OH 44555, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Youngstown State Penguins",
+        "teams": "Youngstown State Penguins",
         "foundingDate": "1982",
-        "capacity": "20630",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stambaugh Stadium - East Building, 5th Ave, Youngstown, OH 44555, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.1094445,
-            "longitude": -80.6486261,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -80.6486261
+        },
+        "capacity": "20630"
     },
     {
         "name": "Quicken Loans Arena",
-        "teams": "Basketball",
-        "address": "Ontario St & Quicken Loans Arena, Cleveland, OH 44115, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Cleveland Cavaliers",
+        "teams": "Cleveland Cavaliers",
         "foundingDate": "1994",
-        "capacity": "20562",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Basketball",
+        "address": "Ontario St & Quicken Loans Arena, Cleveland, OH 44115, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.496326,
-            "longitude": -81.689357,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.689357
+        },
+        "capacity": "20562"
     },
     {
         "name": "Progressive Field[43]",
-        "teams": "Baseball",
-        "address": "Progressive, Santa Rosa, Laguna, Philippines",
-        "type": "StadiumOrArena",
-        "tenant": "Cleveland Indians",
+        "teams": "Cleveland Indians",
         "foundingDate": "1994",
-        "capacity": "38000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Progressive, Santa Rosa, Laguna, Philippines",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 14.319348,
-            "longitude": 121.1019216,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 121.1019216
+        },
+        "capacity": "38000"
     },
     {
         "name": "Paul Brown Stadium",
-        "teams": "Football",
-        "address": "Mehring Way South of Paul Brown Stadium, Cincinnati, OH 45202, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Cincinnati Bengals",
+        "teams": "Cincinnati Bengals",
         "foundingDate": "2000",
-        "capacity": "65790",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Mehring Way South of Paul Brown Stadium, Cincinnati, OH 45202, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.093877,
-            "longitude": -84.515457,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.515457
+        },
+        "capacity": "65790"
     },
     {
         "name": "Ohio Stadium[3]",
-        "teams": "Football",
-        "address": "Ice Arena, Stadium Dr, Bowling Green, OH 43402, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Ohio State Buckeyes",
+        "teams": "Ohio State Buckeyes",
         "foundingDate": "1922",
-        "capacity": "104944",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Ice Arena, Stadium Dr, Bowling Green, OH 43402, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.3789825,
-            "longitude": -83.62774859999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -83.62774859999999
+        },
+        "capacity": "104944"
     },
     {
         "name": "InfoCision Stadium ? Summa Field",
-        "teams": "Football",
-        "address": "InfoCision Stadium - Summa Field, Akron, OH 44304, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Akron Zips",
+        "teams": "Akron Zips",
         "foundingDate": "2009",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "InfoCision Stadium - Summa Field, Akron, OH 44304, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.0725369,
-            "longitude": -81.509388,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Great American Ball Park[30]",
-        "teams": "Baseball",
-        "address": "30 Ball Ave, Alexandria, LA 71301, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Cincinnati Reds",
-        "foundingDate": "2003",
-        "capacity": "42059",
-        "geo": {
-            "latitude": 31.3047163,
-            "longitude": -92.4618092,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.509388
+        },
+        "capacity": "30000"
     },
     {
         "name": "Dix Stadium",
-        "teams": "Football",
-        "address": "Dix Stadium East Lot, Kent, OH 44240, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Kent State Golden Flashes",
+        "teams": "Kent State Golden Flashes",
         "foundingDate": "1969",
-        "capacity": "25,319[48]",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Dix Stadium East Lot, Kent, OH 44240, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.1384276,
-            "longitude": -81.3109376,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.3109376
+        },
+        "capacity": "25,319[48]"
     },
     {
         "name": "H. A. Chapman Stadium",
-        "teams": "Football",
-        "address": "H.A. Chapman Stadium, Tulsa, OK 74104, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Tulsa Golden Hurricane",
+        "teams": "Tulsa Golden Hurricane",
         "foundingDate": "1930",
-        "capacity": "30000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "H.A. Chapman Stadium, Tulsa, OK 74104, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 36.1481359,
-            "longitude": -95.9446736,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.9446736
+        },
+        "capacity": "30000"
     },
     {
         "name": "Reser Stadium",
-        "teams": "Football",
-        "address": "Western & Grove/Reser Stadium [Shelter], Corvallis, OR 97331, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Oregon State Beavers",
+        "teams": "Oregon State Beavers",
         "foundingDate": "1953",
-        "capacity": "45674",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Western & Grove/Reser Stadium [Shelter], Corvallis, OR 97331, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.5571635,
-            "longitude": -123.2815886,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -123.2815886
+        },
+        "capacity": "45674"
     },
     {
         "name": "Providence Park",
-        "teams": "Soccer",
-        "address": "Providence Park, Temple, TX 76504, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Portland Timbers",
+        "teams": "Portland Timbers",
         "foundingDate": "1926",
-        "capacity": "20438",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Soccer",
+        "address": "Providence Park, Temple, TX 76504, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 31.1161845,
-            "longitude": -97.3700861,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Autzen Stadium",
-        "teams": "Football",
-        "address": "Autzen Stadium Way, Las Vegas, NV 89115, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Oregon Ducks",
-        "foundingDate": "1967",
-        "capacity": "53800",
-        "geo": {
-            "latitude": 36.2247289,
-            "longitude": -115.0915845,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.3700861
+        },
+        "capacity": "20438"
     },
     {
         "name": "PNC Park[42]",
-        "teams": "Baseball",
-        "address": "C\u00e9vennes National Park, 48400 Cassagnas, France",
-        "type": "StadiumOrArena",
-        "tenant": "Pittsburgh Pirates",
+        "teams": "Pittsburgh Pirates",
         "foundingDate": "2001",
-        "capacity": "38496",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "C\u00e9vennes National Park, 48400 Cassagnas, France",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.2641552,
-            "longitude": 3.7122036,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 3.7122036
+        },
+        "capacity": "38496"
     },
     {
         "name": "Lincoln Financial Field",
-        "teams": "Football",
-        "address": "Lincoln Financial Field Way, Philadelphia, PA 19148, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Philadelphia Eagles, Temple Owls, Army Navy Game(most years)",
+        "teams": "Philadelphia Eagles, Temple Owls, Army Navy Game(most years)",
         "foundingDate": "2003",
-        "capacity": "68532",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Lincoln Financial Field Way, Philadelphia, PA 19148, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.9028992,
-            "longitude": -75.1667621,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -75.1667621
+        },
+        "capacity": "68532"
     },
     {
         "name": "Heinz Field",
-        "teams": "Football",
-        "address": "Heinz, 82377 Penzberg, Germany",
-        "type": "StadiumOrArena",
-        "tenant": "Pittsburgh Steelers, Pittsburgh Steelers, Pittsburgh Panthers",
+        "teams": "Pittsburgh Steelers, Pittsburgh Steelers, Pittsburgh Panthers",
         "foundingDate": "2001",
-        "capacity": "65050",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Heinz, 82377 Penzberg, Germany",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 47.7635711,
-            "longitude": 11.3818073,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 11.3818073
+        },
+        "capacity": "65050"
     },
     {
         "name": "Franklin Field",
-        "teams": "Football",
-        "address": "Westfield Dr, Franklin, TN 37064, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Penn Quakers",
+        "teams": "Penn Quakers",
         "foundingDate": "1895",
-        "capacity": "52593",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Westfield Dr, Franklin, TN 37064, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 35.9297747,
-            "longitude": -86.8862893,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -86.8862893
+        },
+        "capacity": "52593"
     },
     {
         "name": "Citizens Bank Park[28]",
-        "teams": "Baseball",
-        "address": "151 National Drive, Glastonbury, CT 06033, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Philadelphia Phillies",
+        "teams": "Philadelphia Phillies",
         "foundingDate": "2004",
-        "capacity": "43647",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "151 National Drive, Glastonbury, CT 06033, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.7176887,
-            "longitude": -72.5925705,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -72.5925705
+        },
+        "capacity": "43647"
     },
     {
         "name": "Beaver Stadium[2]",
-        "teams": "Football",
-        "address": "2 Stadium Dr, Boardman, OH 44512, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Penn State Nittany Lions",
+        "teams": "Penn State Nittany Lions",
         "foundingDate": "1960",
-        "capacity": "106572",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "2 Stadium Dr, Boardman, OH 44512, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.0188622,
-            "longitude": -80.6670166,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -80.6670166
+        },
+        "capacity": "106572"
     },
     {
         "name": "Brown Stadium",
-        "teams": "Football",
-        "address": "Brown Stadium, Cincinnati, OH 45255, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Brown Bears",
+        "teams": "Brown Bears",
         "foundingDate": "1925",
-        "capacity": "20000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Brown Stadium, Cincinnati, OH 45255, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 39.0680126,
-            "longitude": -84.3473035,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -84.3473035
+        },
+        "capacity": "20000"
     },
     {
         "name": "Williams-Brice Stadium",
-        "teams": "Football",
-        "address": "Williams Brice Stadium, George Rogers Blvd, Columbia, SC 29201, USA",
-        "type": "StadiumOrArena",
-        "tenant": "South Carolina Gamecocks",
+        "teams": "South Carolina Gamecocks",
         "foundingDate": "1934",
-        "capacity": "80250",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Williams Brice Stadium, George Rogers Blvd, Columbia, SC 29201, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.9730943,
-            "longitude": -81.0191772,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Memorial Stadium",
-        "teams": "Football",
-        "address": "Memorial Stadium, Columbus, GA 31901, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Clemson Tigers",
-        "foundingDate": "1942",
-        "capacity": "82000",
-        "geo": {
-            "latitude": 32.4503397,
-            "longitude": -84.9830542,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -81.0191772
+        },
+        "capacity": "80250"
     },
     {
         "name": "Vanderbilt Stadium at Dudley Field",
-        "teams": "Football",
-        "address": "Dudley, West Midlands, UK",
-        "type": "StadiumOrArena",
-        "tenant": "Vanderbilt Commodores",
+        "teams": "Vanderbilt Commodores",
         "foundingDate": "1922",
-        "capacity": "39790",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Dudley, West Midlands, UK",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 52.512255,
-            "longitude": -2.081112,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -2.081112
+        },
+        "capacity": "39790"
     },
     {
         "name": "Nissan Stadium",
-        "teams": "Football",
-        "address": "Nissan, 30250 Ipoh, Perak, Malaysia",
-        "type": "StadiumOrArena",
-        "tenant": "Tennessee Titans, Tennessee State Tigers, Franklin American Mortgage Company Music City Bowl",
+        "teams": "Tennessee Titans, Tennessee State Tigers, Franklin American Mortgage Company Music City Bowl",
         "foundingDate": "1999",
-        "capacity": "68798",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Nissan, 30250 Ipoh, Perak, Malaysia",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 4.5833088,
-            "longitude": 101.0926143,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": 101.0926143
+        },
+        "capacity": "68798"
     },
     {
         "name": "Rice Stadium",
-        "teams": "Football",
-        "address": "Rice Rd, Richmond, VA 23224, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Rice Owls",
+        "teams": "Rice Owls",
         "foundingDate": "1950",
-        "capacity": "70000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Rice Rd, Richmond, VA 23224, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.5046167,
-            "longitude": -77.4894652,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -77.4894652
+        },
+        "capacity": "70000"
     },
     {
         "name": "Rangers Ballpark in Arlington[22]",
-        "teams": "Baseball",
-        "address": "Arlington, TX, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Texas Rangers",
+        "teams": "Texas Rangers",
         "foundingDate": "1994",
-        "capacity": "49115",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Arlington, TX, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.735687,
-            "longitude": -97.10806559999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.10806559999999
+        },
+        "capacity": "49115"
     },
     {
         "name": "NRG Stadium",
-        "teams": "Football",
-        "address": "NRG stadium, 6 E Greenway Plaza, Houston, TX 77046, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Houston Texans, Meineke Car Care Bowl of Texas",
+        "teams": "Houston Texans, Meineke Car Care Bowl of Texas",
         "foundingDate": "2002",
-        "capacity": "71500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "NRG stadium, 6 E Greenway Plaza, Houston, TX 77046, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.7309385,
-            "longitude": -95.4326329,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.4326329
+        },
+        "capacity": "71500"
     },
     {
         "name": "Minute Maid Park[37]",
-        "teams": "Baseball",
-        "address": "Minute Maid Parking, St Emanuel St, Houston, TX 77003, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Houston Astros",
+        "teams": "Houston Astros",
         "foundingDate": "2000",
-        "capacity": "40950",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Minute Maid Parking, St Emanuel St, Houston, TX 77003, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.7552521,
-            "longitude": -95.35270349999999,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "Mesquite Memorial Stadium",
-        "teams": "Football",
-        "address": "Mesquite, TX, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Local high schools",
-        "foundingDate": "1977",
-        "capacity": "20000",
-        "geo": {
-            "latitude": 32.76679550000001,
-            "longitude": -96.5991593,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.35270349999999
+        },
+        "capacity": "40950"
     },
     {
         "name": "Kyle Field",
-        "teams": "Football",
-        "address": "Kyle, Angleton, TX 77515, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Texas A&M Aggies",
+        "teams": "Texas A&M Aggies",
         "foundingDate": "1927",
-        "capacity": "102512",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Kyle, Angleton, TX 77515, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.17547639999999,
-            "longitude": -95.4263095,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.4263095
+        },
+        "capacity": "102512"
     },
     {
         "name": "Jones AT T Stadium",
-        "teams": "Football",
-        "address": "Jones Rd & Stadium, Austin, TX 78745, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Texas Tech Red Raiders",
+        "teams": "Texas Tech Red Raiders",
         "foundingDate": "1947",
-        "capacity": "61000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Jones Rd & Stadium, Austin, TX 78745, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 30.2267966,
-            "longitude": -97.80634409999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.80634409999999
+        },
+        "capacity": "61000"
     },
     {
         "name": "Gerald J. Ford Stadium",
-        "teams": "Football",
-        "address": "Gerald Ford Fwy, United States",
-        "type": "StadiumOrArena",
-        "tenant": "SMU Mustangs",
+        "teams": "SMU Mustangs",
         "foundingDate": "2000",
-        "capacity": "32000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Gerald Ford Fwy, United States",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 41.2472201,
-            "longitude": -95.95354689999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.95354689999999
+        },
+        "capacity": "32000"
     },
     {
         "name": "Cotton Bowl",
-        "teams": "Football",
-        "address": "Cotton Bowl Ln, Belden, MS 38826, USA",
-        "type": "StadiumOrArena",
-        "tenant": "no home team, used for annual Red River Rivalry, State Fair Classic, and Heart of Dallas Bowl",
+        "teams": "no home team, used for annual Red River Rivalry, State Fair Classic, and Heart of Dallas Bowl",
         "foundingDate": "1930",
-        "capacity": "92100",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Cotton Bowl Ln, Belden, MS 38826, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 34.2877166,
-            "longitude": -88.7633254,
-            "type": "GeoCoordinates"
-        }
-    },
-    {
-        "name": "AT T Stadium",
-        "teams": "Football",
-        "address": "Stadium Dr & T St, Lincoln, NE 68501, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Dallas Cowboys, Cotton Bowl Classic",
-        "foundingDate": "2009",
-        "capacity": "80000",
-        "geo": {
-            "latitude": 40.819199,
-            "longitude": -96.70696199999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -88.7633254
+        },
+        "capacity": "92100"
     },
     {
         "name": "Apogee Stadium",
-        "teams": "Football",
-        "address": "Apogee Stadium, Denton, TX 76205, USA",
-        "type": "StadiumOrArena",
-        "tenant": "North Texas Mean Green",
+        "teams": "North Texas Mean Green",
         "foundingDate": "2011",
-        "capacity": "30850",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Apogee Stadium, Denton, TX 76205, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.204655,
-            "longitude": -97.1592225,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.1592225
+        },
+        "capacity": "30850"
     },
     {
         "name": "Amon G. Carter Stadium",
-        "teams": "Football",
-        "address": "Amon G. Carter Stadium, Fort Worth, TX 76109, USA",
-        "type": "StadiumOrArena",
-        "tenant": "TCU Horned Frogs, The Bell Helicopter Armed Forces Bowl",
+        "teams": "TCU Horned Frogs, The Bell Helicopter Armed Forces Bowl",
         "foundingDate": "1930",
-        "capacity": "44008",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Amon G. Carter Stadium, Fort Worth, TX 76109, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.7096451,
-            "longitude": -97.36735589999999,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -97.36735589999999
+        },
+        "capacity": "44008"
     },
     {
         "name": "Alamodome",
-        "teams": "Football",
-        "address": "Montana in Front of the Alamodome, San Antonio, TX 78206, USA",
-        "type": "StadiumOrArena",
-        "tenant": "UTSA Roadrunners, Alamo Bowl, U.S. Army All-American Bowl",
+        "teams": "UTSA Roadrunners, Alamo Bowl, U.S. Army All-American Bowl",
         "foundingDate": "1993",
-        "capacity": "65000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Montana in Front of the Alamodome, San Antonio, TX 78206, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.418516,
-            "longitude": -98.477576,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -98.477576
+        },
+        "capacity": "65000"
     },
     {
         "name": "Scott Stadium",
-        "teams": "Football",
-        "address": "Scott House, 909 W Franklin St, Richmond, VA 23284, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Virginia Cavaliers",
+        "teams": "Virginia Cavaliers",
         "foundingDate": "1931",
-        "capacity": "61500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Scott House, 909 W Franklin St, Richmond, VA 23284, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.5493831,
-            "longitude": -77.4533477,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -77.4533477
+        },
+        "capacity": "61500"
     },
     {
         "name": "Lane Stadium",
-        "teams": "Football",
-        "address": "Stadium Ln, Friendswood, TX 77546, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Virginia Tech Hokies",
+        "teams": "Virginia Tech Hokies",
         "foundingDate": "1965",
-        "capacity": "66233",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Stadium Ln, Friendswood, TX 77546, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 29.5297533,
-            "longitude": -95.21685670000001,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -95.21685670000001
+        },
+        "capacity": "66233"
     },
     {
         "name": "Martin Stadium",
-        "teams": "Football",
-        "address": "Eiler-Martin Stadium, East Stroudsburg, PA 18301, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Washington State Cougars",
+        "teams": "Washington State Cougars",
         "foundingDate": "1972",
-        "capacity": "35117",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Eiler-Martin Stadium, East Stroudsburg, PA 18301, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 40.9938356,
-            "longitude": -75.1722312,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -75.1722312
+        },
+        "capacity": "35117"
     },
     {
         "name": "Husky Stadium",
-        "teams": "Football",
-        "address": "Husky Stadium, Chino Hills, CA 91709, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Washington Huskies",
+        "teams": "Washington Huskies",
         "foundingDate": "1920",
-        "capacity": "72500",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Husky Stadium, Chino Hills, CA 91709, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 33.9618256,
-            "longitude": -117.688767,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -117.688767
+        },
+        "capacity": "72500"
     },
     {
         "name": "CenturyLink Field",
-        "teams": "Football",
-        "address": "Centurylink Dr, Monroe, LA 71203, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Seattle Seahawks, Seattle Sounders FC",
+        "teams": "Seattle Seahawks, Seattle Sounders FC",
         "foundingDate": "2002",
-        "capacity": "67000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Centurylink Dr, Monroe, LA 71203, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 32.5900443,
-            "longitude": -92.0646812,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -92.0646812
+        },
+        "capacity": "67000"
     },
     {
         "name": "Mountaineer Field[16]",
-        "teams": "Football",
-        "address": "16 Mountaineer Drive, Paradise, NL A1L 3Y6, Canada",
-        "type": "StadiumOrArena",
-        "tenant": "West Virginia Mountaineers",
+        "teams": "West Virginia Mountaineers",
         "foundingDate": "1980",
-        "capacity": "60000",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "16 Mountaineer Drive, Paradise, NL A1L 3Y6, Canada",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 47.5386811,
-            "longitude": -52.8905342,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -52.8905342
+        },
+        "capacity": "60000"
     },
     {
         "name": "Miller Park[31]",
-        "teams": "Baseball",
-        "address": "S 31st St, San Jose, CA 95116, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Milwaukee Brewers",
+        "teams": "Milwaukee Brewers",
         "foundingDate": "2001",
-        "capacity": "41900",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "S 31st St, San Jose, CA 95116, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 37.347683,
-            "longitude": -121.8587418,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -121.8587418
+        },
+        "capacity": "41900"
     },
     {
         "name": "Lambeau Field",
-        "teams": "Football",
-        "address": "Lambeau St, Green Bay, WI 54303, USA",
-        "type": "StadiumOrArena",
-        "tenant": "Green Bay Packers",
+        "teams": "Green Bay Packers",
         "foundingDate": "1957",
-        "capacity": "81435",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Football",
+        "address": "Lambeau St, Green Bay, WI 54303, USA",
+        "@type": "https://schema.org/StadiumOrArena",
         "geo": {
             "latitude": 44.5278798,
-            "longitude": -88.0824162,
-            "type": "GeoCoordinates"
-        }
+            "@type": "GeoCoordinates",
+            "longitude": -88.0824162
+        },
+        "capacity": "81435"
+    },
+    {
+        "name": "Dodger Stadium",
+        "teams": "Los Angeles Dodgers",
+        "foundingDate": "1962",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Dodger Stadium, Fort Dodge, IA 50501, USA",
+        "@type": "https://schema.org/StadiumOrArena",
+        "geo": {
+            "latitude": 42.5184739,
+            "@type": "GeoCoordinates",
+            "longitude": -94.1702541
+        },
+        "capacity": "56000"
+    },
+    {
+        "name": "Angel Stadium of Anaheim",
+        "teams": "Los Angeles Angels of Anaheim",
+        "foundingDate": "1966",
+        "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+        "brand": "Baseball",
+        "address": "Anaheim, CA, USA",
+        "@type": "https://schema.org/StadiumOrArena",
+        "geo": {
+            "latitude": 33.8352932,
+            "@type": "GeoCoordinates",
+            "longitude": -117.9145036
+        },
+        "capacity": "45050"
     }
 ]

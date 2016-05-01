@@ -14,18 +14,19 @@ with open('stadiums.csv', "r") as f:
         geocoder_result = r.json()
         if len(geocoder_result["results"]) > 0:
             to_json.append( {
-                              "@context": "http://schema.org/",
-                              "type": "StadiumOrArena",
+                              "@context": "https://raw.githubusercontent.com/slopez15/ASU-CREU2016/master/JSON-Data/stadiums_context.jsonld",
+                              "@type" : "https://schema.org/StadiumOrArena",
                               "name" : row[0],
                               "capacity" : row[1],
                               "address" : geocoder_result["results"][0]["formatted_address"],
-                              "geo":{"type": "GeoCoordinates",
-                                      "latitude" : geocoder_result["results"][0]["geometry"]["location"]["lat"],
-                                      "longitude" : geocoder_result["results"][0]["geometry"]["location"]["lng"],
+                              "geo": {
+                                  "@type": "GeoCoordinates",
+                                  "latitude" : geocoder_result["results"][0]["geometry"]["location"]["lat"],
+                                  "longitude" : geocoder_result["results"][0]["geometry"]["location"]["lng"],
                               },
                               "foundingDate" : row[4],
-                              "teams" : row[5],
-                              "tenant" : row[6]
+                              "teams" : row[6],
+                              "brand" : row[5]
                             })
         else:
             missing.append(row)
