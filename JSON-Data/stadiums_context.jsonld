@@ -2,7 +2,7 @@
   "@context": {
     "name": "http://schema.org/name",
     "geo": "http://schema.org/geo",
-    "address": "",
+    "address": "https://schema.org/address",
     "latitude": {
       "@id": "http://schema.org/latitude",
       "@type": "xsd:float"
