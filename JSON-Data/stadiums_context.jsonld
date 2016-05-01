@@ -12,7 +12,10 @@
       "@type": "xsd:float"
     },
     "brand": "https://schema.org/brand",
-    "foundingDate" : "https://schema.org/foundingDate",
+    "foundingDate": {
+      "@id": "https://schema.org/foundingDate",
+      "@type": "xsd:int"
+    },
     "teams": "https://schema.org/additionalProperty",
     "capacity": {
       "@id": "https://schema.org/additionalProperty",
