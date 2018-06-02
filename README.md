@@ -18,5 +18,6 @@ What to keep in mind when trying out web-scraping:
 * Selenuim pros/cons. 
 
 Many key information is in this journal post: https://sites.google.com/a/asu.edu/creu-saulslopez/blogs/week20
+Here is a list of more headless browsers: https://github.com/dhamaniasad/HeadlessBrowsers
 
 Your Welcome!
